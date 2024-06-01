@@ -1,7 +1,5 @@
 # Muhammad Ammar Khan
 
-![Profile Banner](https://i.imgur.com/YVFLxDj.png)
-
 ## Contact Information
 - **Location:** District Jhelum, Punjab, Pakistan
 - **Phone:** +92 314 5401405
