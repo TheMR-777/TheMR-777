@@ -1,6 +1,6 @@
 # Muhammad Ammar Khan
 
-![Profile Banner](https://i.imgur.com/NsluSGP.png)
+![Profile Banner](https://i.imgur.com/UXJzrNB.png)
 
 ## Contact Information
 - **Location:** District Jhelum, Punjab, Pakistan
