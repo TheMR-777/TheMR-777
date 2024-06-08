@@ -108,7 +108,8 @@ Highly motivated and detail-oriented Computer Science graduate with a strong fou
 
 ### Paddy Leaf Disease Symptoms Detection Through Artificial Neural Network  
 *Khan, S.N., Khan, S.U., Ahmed, S., Khan, M.A., Khan, J.*  
-*Quantum Journal of Engineering, Science and Technology*, 4(4), 1-10
+*Quantum Journal of Engineering, Science and Technology*, 4(4), 1-10  
+[Link to Paper](https://qjoest.com/index.php/qjoest/article/view/123/75)  
 
 - Co-authored a research paper on the detection of paddy leaf disease symptoms using artificial neural networks.
 - Contributed to the development of a system that enhances the accuracy of disease detection in agricultural applications.
