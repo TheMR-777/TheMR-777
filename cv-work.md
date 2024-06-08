@@ -16,7 +16,7 @@ Highly motivated and detail-oriented Computer Science graduate with a strong fou
 
 ## Education
 
-**Bachelor of Science in Computer Science**  
+### BS (Honors) in Computer Science  
 *University of the Punjab, Jhelum Campus*  
 **Year:** 2023  
 - **CGPA:** 3.73/4.0  
@@ -25,12 +25,12 @@ Highly motivated and detail-oriented Computer Science graduate with a strong fou
   - **Description:** A Flutter application assisting teachers in managing student records, attendance, marks, and assignments, securely storing data in Google Drive via Google Sheets.
   - **Technologies Used:** Flutter, Google Sheets API, Google Drive API, Google Authentication API  
 
-**Intermediate in Pre-Engineering**  
+### Intermediate in Pre-Engineering  
 *F.G. Intermediate College, Jhelum Cantt*  
 **Year:** 2019  
 - **Marks:** 743/1100  
 
-**Matriculation**  
+### Matriculation  
 *F.G. Public School, Jhelum Cantt*  
 **Year:** 2017  
 - **Marks:** 845/1050  
@@ -98,13 +98,21 @@ Highly motivated and detail-oriented Computer Science graduate with a strong fou
 
 ## Research & Publications
 
-**Identification of Paddy Disease Along Its Processing Time**  
+### Identification of Paddy Disease Along Its Processing Time  
 *Khan, S.N., Khan, S.U., Khan, M.A., Ansar, M.U., Shakeel, G.S., Ahmed, M., Zahid, N., & Ahmad, F.*  
 *Quantum Journal of Social Sciences and Humanities*, 4(3), 72-80  
 [Link to Paper](https://doi.org/10.55197/qjssh.v4i3.251)  
 
 - Developed an innovative image processing system for diagnosing paddy diseases.
 - Achieved high accuracy rates using advanced image processing techniques.
+
+### Paddy Leaf Disease Symptoms Detection Through Artificial Neural Network  
+*Khan, S.N., Khan, S.U., Ahmed, S., Khan, M.A., Khan, J.*  
+*Quantum Journal of Engineering, Science and Technology*, 4(4), 1-10
+
+- Co-authored a research paper on the detection of paddy leaf disease symptoms using artificial neural networks.
+- Contributed to the development of a system that enhances the accuracy of disease detection in agricultural applications.
+- Participated in experiments that demonstrated improved performance in symptom detection using ANN with high accuracy.
 
 ## Certifications & Training
 
