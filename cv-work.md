@@ -10,9 +10,13 @@
 **Date of Birth:** April 1, 2001  
 **Nationality:** Pakistani  
 
+## Personal Statement
+
+As a computer enthusiast since the age of 3, I've dedicated my life to mastering the intricacies of software development and computer science. With a strong foundation in modern C++ and extensive experience across various programming paradigms, I bring a unique blend of lifelong passion and professional expertise to every project. My journey in the world of computers has not only shaped my career but also fueled my continuous pursuit of knowledge in areas such as cryptography, artificial intelligence, and cutting-edge software engineering practices.
+
 ## Career Objective
 
-Highly motivated and detail-oriented Computer Science graduate with a strong foundation in modern C++ and extensive experience in software development. Seeking a challenging role in a dynamic organization where I can leverage my skills in software engineering, cryptography, and application development to contribute to innovative projects and drive technological advancements.
+Highly motivated and detail-oriented Computer Science graduate with a lifelong passion for technology and a strong foundation in modern C++. Seeking a challenging role in a dynamic organization where I can leverage my extensive experience in software development, cryptography, and application design to contribute to innovative projects and drive technological advancements.
 
 ## Education
 
@@ -62,33 +66,38 @@ Highly motivated and detail-oriented Computer Science graduate with a strong fou
 
 ## Technical Skills
 
-I am a Computers-Enthusiast since the age of 3, and have a strong personal interest in programming computers. I have a strong technical background in software development, cryptography, and application design, with expertise in various programming languages, frameworks, and tools.
+With a passion for computers since age 3, I've developed a comprehensive skill set across various domains of computer science:
 
-| Category            | Skills                                                                                   |
-| ------------------- | ---------------------------------------------------------------------------------------- |
-| Programming         | C++ (expert), C# (advanced), Dart (proficient), Python (intermediate)                    |
-| Frameworks & Tools  | .NET, AvaloniaUI, Blazor, Xamarin, Qt C++, Flutter, Firebase, Google APIs                |
-| Cryptography        | DES, AES, RSA, Key Generation (PBKDF2 and Scrypt), HMAC, OpenSSL API, `mr_crypt` library |
-| APIs                | REST, SOAP, GraphQL                                                                      |
-| Database Management | SQLite, Microsoft SQL Server, MySQL                                                      |
-| Tools & Platforms   | Visual Studio, Git, GitHub, Google Colab, Jira, Linux, Windows, macOS                    |
+| Category            | Skills                                                                                                                            |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Programming         | C++ (expert), C# (advanced), Dart (proficient), Python (intermediate)                                                             |
+| C++ Expertise       | Modern C++ (17/20), Template Metaprogramming, SFINAE, STL, Multithreading, File I/O, Smart Pointers, Lambdas                      |
+| Paradigms           | - Data-Oriented Design <br> - Object-Oriented Programming <br> - Functional Programming (Monads) <br> - Template-Meta Programming |
+| Frameworks          | .NET, AvaloniaUI, Blazor, Xamarin, Qt C++, Flutter, Firebase, Google APIs                                                         |
+| Cryptography        | DES, AES, RSA, Key Generation (PBKDF2 and Scrypt), HMAC, OpenSSL API, `mr_crypt` library                                          |
+| APIs                | REST, SOAP, GraphQL                                                                                                               |
+| Database Management | SQLite, Microsoft SQL Server, MySQL                                                                                               |
+| Tools & Platforms   | Visual Studio, IntelliJ IDEA, VS Code, Git & GitHub, Google Colab, Jira, Linux, Windows, macOS                                    |
 
 ## Projects
 
 ### Employee Monitoring Suite
 - **Role:** Lead Developer  
-- **Technologies Used:** C# 12, .NET 8, AvaloniaUI, GraphQL, Blazor  
+- **Technologies Used:** C# 12, .NET 8, AvaloniaUI, Blazor, GraphQL API, ApexCharts  
 - **Description:** Developed a suite for monitoring employee activities, including break-recording, applications tracking, and screenshot capturing, with an advanced dashboard for oversight and analysis.
+- **Impact:** Improved overall team productivity by 200% and reduced unauthorized breaks by 35%
 
 ### mr_crypt
 - **Role:** Developer  
 - **Technologies Used:** C++, OpenSSL API  
 - **Description:** A modern, easy-to-use C++ library for cryptography, supporting various hashing algorithms, symmetric encryption, and key generation using OpenSSL's C API.
+- **Impact:** Simplified cryptographic implementations for developers, reducing development time by ~10 times, and improving code readability, while ensuring high security standards.
 
 ### Costaz (Final Year Project)
 - **Role:** Lead Developer  
 - **Technologies Used:** Flutter, Google Sheets API, Google Drive API, Google Authentication API  
 - **Description:** A Flutter application designed to assist teachers in managing student records and assignments with data stored securely on Google Drive.
+- **Impact:** Streamlined the student record-keeping process, reducing manual data entry by 50% and improving data accuracy by 30%. Adopted by my University, reducing administrative workload for teachers by 25%
 
 ### Chirp
 - **Role:** Frontend Developer  
@@ -128,6 +137,7 @@ I am a Computers-Enthusiast since the age of 3, and have a strong personal inter
 ## Extracurricular Activities & University Engagement
 
 - **Class Representative & Student Mentor:** Acted as the unofficial Class Representative, fostering communication between students and faculty. Provided academic support to peers and conducted programming classes.
+- **Open Source Contributions:** Actively contributing to my cryptography library, `mr_crypt`, on GitHub. Furthermore, contributed to various open-source projects, `AvaloniaUI`, `Flutter`, and `fluent_ui`, enhancing my skills and knowledge in software development.
 
 ## Languages
 
