@@ -62,12 +62,14 @@ Highly motivated and detail-oriented Computer Science graduate with a strong fou
 
 ## Technical Skills
 
-- **Programming Languages:** C++ (expert), C# (advanced), Dart (proficient), Python (intermediate)
-- **Frameworks and Tools:** .NET, Flutter, AvaloniaUI, Blazor, Xamarin, GraphQL, Firebase, REST APIs, Google APIs
-- **Cryptography:** RSA, DES, AES, Key Generation (PBKDF2 and Scrypt), HMAC, OpenSSL API, developed `mr_crypt` library
-- **APIs:** REST, GraphQL
-- **Database Management:** Microsoft SQL Server, MySQL
-- **Tools and Platforms:** Visual Studio, Git, Google Colab, Firebase
+| Category            | Skills                                                                                   |
+| ------------------- | ---------------------------------------------------------------------------------------- |
+| Programming         | C++ (expert), C# (advanced), Dart (proficient), Python (intermediate)                    |
+| Frameworks & Tools  | .NET, AvaloniaUI, Blazor, Xamarin, Qt C++, Flutter, Firebase, Google APIs                |
+| Cryptography        | DES, AES, RSA, Key Generation (PBKDF2 and Scrypt), HMAC, OpenSSL API, `mr_crypt` library |
+| APIs                | REST, SOAP, GraphQL                                                                      |
+| Database Management | SQLite, Microsoft SQL Server, MySQL                                                      |
+| Tools & Platforms   | Visual Studio, Git, GitHub, Google Colab, Jira, Linux, Windows, macOS                    |
 
 ## Projects
 
@@ -75,6 +77,11 @@ Highly motivated and detail-oriented Computer Science graduate with a strong fou
 - **Role:** Lead Developer  
 - **Technologies Used:** C# 12, .NET 8, AvaloniaUI, GraphQL, Blazor  
 - **Description:** Developed a suite for monitoring employee activities, including break-recording, applications tracking, and screenshot capturing, with an advanced dashboard for oversight and analysis.
+
+### mr_crypt
+- **Role:** Developer  
+- **Technologies Used:** C++, OpenSSL API  
+- **Description:** A modern, easy-to-use C++ library for cryptography, supporting various hashing algorithms, symmetric encryption, and key generation using OpenSSL's C API.
 
 ### Costaz (Final Year Project)
 - **Role:** Lead Developer  
@@ -91,17 +98,12 @@ Highly motivated and detail-oriented Computer Science graduate with a strong fou
 - **Technologies Used:** Flutter, Firebase, Shopify REST API  
 - **Description:** An e-commerce application integrating Shopify's REST API for seamless product fetching and display.
 
-### mr_crypt
-- **Role:** Developer  
-- **Technologies Used:** C++, OpenSSL API  
-- **Description:** A modern, easy-to-use C++ library for cryptography, supporting various hashing algorithms, symmetric encryption, and key generation using OpenSSL's C API.
-
 ## Research & Publications
 
 ### Identification of Paddy Disease Along Its Processing Time  
 *Khan, S.N., Khan, S.U., Khan, M.A., Ansar, M.U., Shakeel, G.S., Ahmed, M., Zahid, N., & Ahmad, F.*  
 *Quantum Journal of Social Sciences and Humanities*, 4(3), 72-80  
-[Link to Paper](https://doi.org/10.55197/qjssh.v4i3.251)  
+[Link to the Paper](https://doi.org/10.55197/qjssh.v4i3.251)  
 
 - Developed an innovative image processing system for diagnosing paddy diseases.
 - Achieved high accuracy rates using advanced image processing techniques.
@@ -109,7 +111,7 @@ Highly motivated and detail-oriented Computer Science graduate with a strong fou
 ### Paddy Leaf Disease Symptoms Detection Through Artificial Neural Network  
 *Khan, S.N., Khan, S.U., Ahmed, S., Khan, M.A., Khan, J.*  
 *Quantum Journal of Engineering, Science and Technology*, 4(4), 1-10  
-[Link to Paper](https://qjoest.com/index.php/qjoest/article/view/123/75)  
+[Link to the Paper](https://qjoest.com/index.php/qjoest/article/view/123/75)  
 
 - Co-authored a research paper on the detection of paddy leaf disease symptoms using artificial neural networks.
 - Contributed to the development of a system that enhances the accuracy of disease detection in agricultural applications.
@@ -117,8 +119,9 @@ Highly motivated and detail-oriented Computer Science graduate with a strong fou
 
 ## Certifications & Training
 
+- **Modern C++ Mastery w.r.t. Game Development** by TheCherno (YouTube)
 - **Advanced Cryptography Course** by Christof Paar (YouTube)
-- **Flutter Development Course** (Udemy)
+- **Flutter Development Course** by App Brewery Co. (Udemy)
 
 ## Extracurricular Activities & University Engagement
 
@@ -131,9 +134,16 @@ Highly motivated and detail-oriented Computer Science graduate with a strong fou
 
 ## Interests
 
-- **Programming:** Passionate about exploring new programming paradigms and technologies
-- **Cryptography:** Keen interest in developing secure and efficient cryptographic solutions
-- **Open Source:** Active contributor to open-source projects, especially in C++ and cryptography  
+| Interest                     | Description                                                                              |
+| ---------------------------- | ---------------------------------------------------------------------------------------- |
+| Programming                  | Passionate about exploring new programming paradigms and technologies                    |
+| Cryptography                 | Keen interest in developing secure and efficient cryptographic solutions                 |
+| Gaming                       | Enthusiastic gamer with a particular interest in game development and design             |
+| Artificial Intelligence      | Learn and explore the latest trends in AI and machine learning                           |
+| Data Structures & Algorithms | Enjoy solving complex problems and optimizing algorithms                                 |
+| Optimization                 | Enjoy optimizing code and algorithms for performance and efficiency                      |
+| Open Source                  | Active contributor to open-source projects, especially in C++ and cryptography           |
+| Symmetrical Lifestyle        | Believe in maintaining a healthy work-life balance to ensure productivity and well-being |
 
 ## References
 
