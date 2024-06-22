@@ -62,6 +62,8 @@ Highly motivated and detail-oriented Computer Science graduate with a strong fou
 
 ## Technical Skills
 
+I am a Computers-Enthusiast since the age of 3, and have a strong personal interest in programming computers. I have a strong technical background in software development, cryptography, and application design, with expertise in various programming languages, frameworks, and tools.
+
 | Category            | Skills                                                                                   |
 | ------------------- | ---------------------------------------------------------------------------------------- |
 | Programming         | C++ (expert), C# (advanced), Dart (proficient), Python (intermediate)                    |
@@ -133,6 +135,8 @@ Highly motivated and detail-oriented Computer Science graduate with a strong fou
 - **English:** Fluent (planning to obtain IELTS certification)
 
 ## Interests
+
+I have a diverse range of interests that complement my professional skills and contribute to my personal growth and development.
 
 | Interest                     | Description                                                                              |
 | ---------------------------- | ---------------------------------------------------------------------------------------- |
