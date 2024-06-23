@@ -12,11 +12,11 @@
 
 ## Personal Statement
 
-As a computer enthusiast since the age of 3, I've dedicated my life to mastering the intricacies of software development and computer science. With a strong foundation in modern C++ and extensive experience across various programming paradigms, I bring a unique blend of lifelong passion and professional expertise to every project. My journey in the world of computers has not only shaped my career but also fueled my continuous pursuit of knowledge in areas such as cryptography, artificial intelligence, and cutting-edge software engineering practices.
+As a computer enthusiast since the age of 3, I've dedicated my life to mastering the intricacies of software development and computer science. With a strong foundation in modern C++ and extensive experience across various programming paradigms, I bring a unique blend of lifelong passion and professional expertise to every project. My journey in the world of computers has not only shaped my career but also fueled my continuous pursuit of knowledge in areas such as cryptography, artificial intelligence, and cutting-edge software engineering practices. I excel in problem-solving, leveraging advanced information retrieval techniques and AI tools to tackle complex challenges efficiently.
 
 ## Career Objective
 
-Highly motivated and detail-oriented Computer Science graduate with a lifelong passion for technology and a strong foundation in modern C++. Seeking a challenging role in a dynamic organization where I can leverage my extensive experience in software development, cryptography, and application design to contribute to innovative projects and drive technological advancements.
+Highly motivated and detail-oriented Computer Science graduate with a lifelong passion for technology and a strong foundation in modern C++. Seeking a challenging role in a dynamic organization where I can leverage my extensive experience in software development, cryptography, application design, and AI-assisted problem-solving to contribute to innovative projects and drive technological advancements.
 
 ## Education
 
@@ -78,6 +78,7 @@ With a passion for computers since age 3, I've developed a comprehensive skill s
 | APIs                | REST, SOAP, GraphQL                                                                                                               |
 | Database Management | SQLite, Microsoft SQL Server, MySQL                                                                                               |
 | Tools & Platforms   | Visual Studio, IntelliJ IDEA, VS Code, Git & GitHub, Google Colab, Jira, Linux, Windows, macOS                                    |
+| AI & Problem-Solving| Advanced Google Search Operators, AI-assisted development (GPT-4, Claude 3.5, LLaMA 3, GitHub Copilot, Microsoft Copilot, Mixtral AI, Google's Gemini 1.5 Pro), AI Prompt Engineering |
 
 ## Projects
 
@@ -138,6 +139,7 @@ With a passion for computers since age 3, I've developed a comprehensive skill s
 
 - **Class Representative & Student Mentor:** Acted as the unofficial Class Representative, fostering communication between students and faculty. Provided academic support to peers and conducted programming classes.
 - **Open Source Contributions:** Actively contributing to my cryptography library, `mr_crypt`, on GitHub. Furthermore, contributed to various open-source projects, `AvaloniaUI`, `Flutter`, and `fluent_ui`, enhancing my skills and knowledge in software development.
+- **AI Prompt Engineering:** Developed specialized prompts for GPT models, optimizing their performance for specific fields and improving output accuracy. Skilled in enhancing the capabilities of various AI models through advanced prompt engineering techniques.
 
 ## Languages
 
@@ -153,10 +155,12 @@ I have a diverse range of interests that complement my professional skills and c
 | Programming                  | Passionate about exploring new programming paradigms and technologies                    |
 | Cryptography                 | Keen interest in developing secure and efficient cryptographic solutions                 |
 | Gaming                       | Enthusiastic gamer with a particular interest in game development and design             |
-| Artificial Intelligence      | Learn and explore the latest trends in AI and machine learning                           |
+| Artificial Intelligence      | Learn and explore the latest trends in AI and machine learning, including practical applications of AI-assisted development and prompt engineering |
 | Data Structures & Algorithms | Enjoy solving complex problems and optimizing algorithms                                 |
 | Optimization                 | Enjoy optimizing code and algorithms for performance and efficiency                      |
 | Open Source                  | Active contributor to open-source projects, especially in C++ and cryptography           |
+| Advanced Information Retrieval | Proficient in using advanced search techniques to find and synthesize information from diverse sources |
+| AI-Assisted Problem Solving  | Skilled in leveraging various AI models and tools to tackle complex challenges efficiently |
 | Symmetrical Lifestyle        | Believe in maintaining a healthy work-life balance to ensure productivity and well-being |
 
 ## References
