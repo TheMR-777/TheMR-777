@@ -12,11 +12,11 @@
 
 ## Personal Statement
 
-As a computer enthusiast since the age of 3, I've dedicated my life to mastering the intricacies of software development and computer science. With a strong foundation in modern C++ and extensive experience across various programming paradigms, I bring a unique blend of lifelong passion and professional expertise to every project. My journey in the world of computers has not only shaped my career but also fueled my continuous pursuit of knowledge in areas such as cryptography, artificial intelligence, and cutting-edge software engineering practices. I excel in problem-solving, leveraging advanced information retrieval techniques and AI tools to tackle complex challenges efficiently.
+As a lifelong computer enthusiast, I have honed my skills in software development and computer science from an early age. My expertise in modern C++, cryptography, AI, and cutting-edge software engineering practices allows me to solve complex challenges efficiently. I am passionate about leveraging advanced techniques and tools to drive innovation and excellence in every project.
 
 ## Career Objective
 
-Highly motivated and detail-oriented Computer Science graduate with a lifelong passion for technology and a strong foundation in modern C++. Seeking a challenging role in a dynamic organization where I can leverage my extensive experience in software development, cryptography, application design, and AI-assisted problem-solving to contribute to innovative projects and drive technological advancements.
+Aspiring to contribute to innovative projects in a forward-thinking tech company, leveraging my expertise in modern C++, software development, cryptography, and AI-assisted problem-solving to drive technological advancements and deliver impactful solutions.
 
 ## Education
 
@@ -24,6 +24,15 @@ Highly motivated and detail-oriented Computer Science graduate with a lifelong p
 *University of the Punjab, Jhelum Campus*  
 **Year:** 2023  
 - **CGPA:** 3.73/4.0  
+- **Key Coursework:** 
+  - Data Structures & Algorithms, and their Analysis 
+  - Theory of Automata 
+  - Networking and Information Security
+  - Cryptography & Security 
+  - Software Engineering and Design Patterns
+  - Object-Oriented Design Principles and Analysis 
+  - Artificial Intelligence and Machine Learning
+  - Database Management Systems
 - **Final Year Project:**  
   - **Title:** Costaz  
   - **Description:** A Flutter application assisting teachers in managing student records, attendance, marks, and assignments, securely storing data in Google Drive via Google Sheets.
@@ -71,9 +80,9 @@ With a passion for computers since age 3, I've developed a comprehensive skill s
 | Category            | Skills                                                                                                                            |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | Programming         | C++ (expert), C# (advanced), Dart (proficient), Python (intermediate)                                                             |
-| C++ Expertise       | Modern C++ (17/20), Template Metaprogramming, SFINAE, STL, Multithreading, File I/O, Smart Pointers, Lambdas                      |
-| Paradigms           | - Data-Oriented Design <br> - Object-Oriented Programming <br> - Functional Programming (Monads) <br> - Template-Meta Programming |
+| C++ Expertise       | Modern C++ (23/26), Template Metaprogramming, SFINAE, STL, Multithreading, File I/O, Smart Pointers, Lambdas                      |
 | Frameworks          | .NET, AvaloniaUI, Blazor, Xamarin, Qt C++, Flutter, Firebase, Google APIs                                                         |
+| Paradigms           | - Data-Oriented Design <br> - Object-Oriented Programming <br> - Functional Programming (Monads) <br> - Template-Meta Programming |
 | Cryptography        | DES, AES, RSA, Key Generation (PBKDF2 and Scrypt), HMAC, OpenSSL API, `mr_crypt` library                                          |
 | APIs                | REST, SOAP, GraphQL                                                                                                               |
 | Database Management | SQLite, Microsoft SQL Server, MySQL                                                                                               |
