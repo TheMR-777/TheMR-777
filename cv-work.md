@@ -165,7 +165,7 @@ With a passion for computers since age 3, I've developed a comprehensive skill s
 ## Languages
 
 - **Urdu:** Native  
-- **English:** C1 in IELTS Academic
+- **English:** 7.5 Bands in IELTS Academic
 
 | IELTS Module | Bands |
 | --- | --- |
