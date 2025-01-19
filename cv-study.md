@@ -20,7 +20,7 @@ Aspiring to engage in dynamic roles within the expansive field of computer scien
 
 ## Education
 
-### Bachelor's in Computer Science
+### BS (Honors) in Computer Science
 **University of the Punjab, Jhelum Campus**  
 **Year:** 2023  
 - **CGPA:** 3.73/4.0
@@ -56,16 +56,17 @@ Aspiring to engage in dynamic roles within the expansive field of computer scien
 **Position:** .NET Developer  
 **Duration:** June 2023 - Present  
 - **Responsibilities:**
-  - Implementing cryptography and security measures in systems using C# and C++
+  - Implementing cryptography and security measures in systems using  and C++
   - Integration and maintenance of payout partner APIs ensuring secure transactions
-  - Development and maintenance of a feature-rich Employee Monitoring Suite
+  - Development and maintenance of a featureful Employee Monitoring Suite
   - Modernizing and optimizing legacy systems using .NET 8 and AvaloniaUI
 - **Achievements:**
   - Implemented a two-layer encryption system (RSA & AES with HMAC) for the Punjab National Bank API
   - Crafted an Employee Monitoring Suite enhancing productivity (details in the Projects section)
-  - Developed a real-time dashboard in .NET 8 with Blazor for the SLA system
-  - Modernized existing monitoring tools using .NET 8 and AvaloniaUI
+  - Developed a real-time dashboard and backoffice in .NET 9 with Blazor for the monitoring
+  - Modernized existing monitoring tools using .NET 9 and AvaloniaUI
   - Introduced GraphQL APIs for streamlined development processes
+  - JWT Management and Configuration for the Payout Partners in the APIs
 
 ### TeqHolic
 **Position:** Intern  
@@ -79,25 +80,25 @@ Aspiring to engage in dynamic roles within the expansive field of computer scien
 
 With a passion for computers since age 3, I've developed a comprehensive skill set across various domains of computer science:
 
-| Category                   | Skills                                                                                                                                                                                                                                        |
-| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Programming                | C++ (expert), C# (advanced), Dart (proficient), Python (intermediate)                                                                                                                                                                          |
-| C++ Expertise              | Modern C++ (up to C++23), SFINAE, STL, Multithreading, File I/O, Smart Pointers, Lambdas                                                                                                                                                       |
-| Cryptography and Security  | DES, AES, RSA, Key Generation (PBKDF2, Scrypt, Argon2), HMAC, EC Cryptography, OpenSSL API, `mr_crypt` library, Ethical Hacking, Penetration Testing, Mobile Security Assessments                                                              |
-| Artificial Intelligence    | Machine Learning Algorithms, Neural Networks, AI-assisted Development, Prompt Engineering                                                                                                                                                      |
-| Game Development           | Knowledge of Game Design Principles, Experience with Game Engines                                                                                                                                                                              |
-| Frameworks                 | .NET, AvaloniaUI, Blazor, Xamarin, Qt C++, Flutter, Firebase, Google APIs                                                                                                                                                                      |
-| Paradigms                  | - Data-Oriented Design <br> - Object-Oriented Programming <br> - Functional Programming (Monads) <br> - Template-Meta Programming                                                                                                              |
-| APIs                       | REST, SOAP, GraphQL                                                                                                                                                                                                                            |
-| Database Management        | SQLite, Microsoft SQL Server, MySQL                                                                                                                                                                                                            |
-| Tools & Platforms          | Visual Studio, IntelliJ IDEA, VS Code, Git & GitHub, Google Colab & Jupyter Notebook, Jira, Linux, Windows, macOS                                                                                                                              |
-| AI & Problem-Solving       | Advanced Google Search Operators, AI-assisted development (harnessing GPTs, Claude, LLaMA, Command R+, GitHub Copilot, Microsoft Copilot, Mixtral AI, Google's Gemini), AI Prompt Engineering                                                  |
+| Category                   | Skills |
+| -------------------------- | --- |
+| Programming                | C++ (expert),  (advanced), Dart (proficient), Python (intermediate) |
+| C++ Expertise              | Modern C++ (till C++23/26), SFINAE, STL, Multithreading, File I/O, Smart Pointers, Lambdas |
+| Cryptography and Security  | DES, AES, RSA, Key Generation (PBKDF2, Scrypt, Argon2), HMAC, EC Cryptography, OpenSSL API, `mr_crypt` library, Ethical Hacking, Penetration Testing, Mobile Security Assessments |
+| Artificial Intelligence    | Machine Learning Algorithms, Neural Networks, AI-assisted Development, Prompt Engineering |
+| Game Development           | Knowledge of Game Design Principles, Experience with Game Engines |
+| Frameworks                 | .NET, AvaloniaUI, Blazor, Xamarin, Qt C++, Flutter, Firebase, Google APIs |
+| Paradigms                  | - Data-Oriented Design <br> - Object-Oriented Programming <br> - Functional Programming (Monads) <br> - Template-Meta Programming |
+| APIs                       | REST, SOAP, GraphQL |
+| Database Management        | SQLite, Microsoft SQL Server, MySQL |
+| Tools & Platforms          | Visual Studio, IntelliJ IDEA, VS Code, Git & GitHub, Google Colab & Jupyter Notebook, Jira, Linux, Windows, macOS |
+| AI & Problem-Solving       | Advanced Google Search Operators, AI-assisted development (harnessing GPTs, Claude, LLaMA, Command R+, GitHub Copilot, Microsoft Copilot, Mixtral AI, Google's Gemini), AI Prompt Engineering |
 
 ## Projects
 
 ### Employee Monitoring Suite
 - **Role:** Lead Developer  
-- **Technologies Used:** C# 12, .NET 8, AvaloniaUI, Blazor, GraphQL API, Micro-ORM, ApexCharts, Microsoft SQL Server
+- **Technologies Used:** C# 13, .NET 9, AvaloniaUI, Blazor, GraphQL API, Micro-ORM, ApexCharts, Microsoft SQL Server
 - **Description:** Developed an Intune and DeskTime-like suite for monitoring employee activities, including:
   - Real-time monitoring of active windows and applications
   - Screenshot capturing at regular intervals
@@ -217,8 +218,8 @@ I have a diverse range of interests that complement my professional skills and c
 
 | Interest                        | Description                                                                                                                                        |
 | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Cyber Security & Ethical Hacking | Passionate about exploring security vulnerabilities, developing ethical hacking techniques, and securing systems against potential threats          |
-| Artificial Intelligence         | Exploring the latest trends in AI and machine learning, including practical applications of AI-assisted development and prompt engineering          |
+| Cyber Security & Ethical Hacking | Passionate about exploring security vulnerabilities, developing ethical hacking techniques, and securing systems against potential threats        |
+| Artificial Intelligence         | Exploring the latest trends in AI and machine learning, including practical applications of AI-assisted development and prompt engineering         |
 | Cryptography                    | Keen interest in developing secure and efficient cryptographic solutions                                                                           |
 | Programming                     | Enthusiastic about exploring new programming paradigms and technologies                                                                            |
 | Gaming                          | Avid gamer with a particular interest in game development and design                                                                               |
