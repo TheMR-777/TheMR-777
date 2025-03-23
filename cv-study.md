@@ -8,23 +8,29 @@
 - **Date of Birth:** April 1, 2001
 - **Nationality:** Pakistani
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-%40TheMR--777-%23181717?logo=github&style=flat">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-%40TheMR--777-%23E6E6FA?logo=github&style=flat">
-  <img alt="GitHub Badge" src="https://img.shields.io/badge/GitHub-%40TheMR--777-%23181717?logo=github&style=flat">
-</picture>
+<a href="https://github.com/TheMR-777">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-%40TheMR--777-%23181717?logo=github&style=flat">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-%40TheMR--777-%23E6E6FA?logo=github&style=flat">
+    <img alt="GitHub Badge" src="https://img.shields.io/badge/GitHub-%40TheMR--777-%23181717?logo=github&style=flat">
+  </picture>
+</a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/WhatsApp-%2B92%20314%205401405-%23075E54?logo=whatsapp&style=flat">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/WhatsApp-%2B92%20314%205401405-%23DFFFD6?logo=whatsapp&style=flat">
-  <img alt="WhatsApp Badge" src="https://img.shields.io/badge/WhatsApp-%2B92%20314%205401405-%23075E54?logo=whatsapp&style=flat">
-</picture>
+<a href="https://wa.me/923145401405">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/WhatsApp-%2B92%20314%205401405-%23075E54?logo=whatsapp&style=flat">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/WhatsApp-%2B92%20314%205401405-%23DFFFD6?logo=whatsapp&style=flat">
+    <img alt="WhatsApp Badge" src="https://img.shields.io/badge/WhatsApp-%2B92%20314%205401405-%23075E54?logo=whatsapp&style=flat">
+  </picture>
+</a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-m.shahzad.ms72%40gmail.com-%23EA4335?logo=gmail&style=flat">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-m.shahzad.ms72%40gmail.com-%23FFE4E1?logo=gmail&style=flat">
-  <img alt="Email Badge" src="https://img.shields.io/badge/Email-m.shahzad.ms72%40gmail.com-%23EA4335?logo=gmail&style=flat">
-</picture>
+<a href="mailto:m.shahzad.ms72@gmail.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-m.shahzad.ms72%40gmail.com-%23EA4335?logo=gmail&style=flat">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-m.shahzad.ms72%40gmail.com-%23FFE4E1?logo=gmail&style=flat">
+    <img alt="Email Badge" src="https://img.shields.io/badge/Email-m.shahzad.ms72%40gmail.com-%23EA4335?logo=gmail&style=flat">
+  </picture>
+</a>
 
 ## Personal Statement
 
