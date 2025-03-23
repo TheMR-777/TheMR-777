@@ -25,14 +25,12 @@ Aspiring to engage in dynamic roles within the expansive field of computer scien
 **Year:** 2023  
 - **CGPA:** 3.73/4.0
 - **Key Coursework:** 
-  - Cryptography & Security 
-  - Artificial Intelligence and Machine Learning
-  - Networking and Information Security
-  - Data Structures & Algorithms, and their Analysis 
-  - Database Management Systems & SQL
-  - Object-Oriented Design Principles and Analysis 
-  - Software Engineering and Design Patterns
-  - Theory of Automata, Formal Languages, and Compiler Construction
+  - **Computing & Software:** Data Structures & Algorithms, Analysis of Algorithms, Software Engineering, Object-Oriented Analysis & Design, Software Quality Assurance
+  - **Systems & Architecture:** Operating Systems, Computer Architecture, System Programming
+  - **Security & Networking:** Network Security, Computer Networks
+  - **Mathematics & AI:** Artificial Intelligence, Probability & Statistics, Linear Algebra
+  - **Database Systems:** Database Management Systems (DBMS) with Lab
+  - **Theory:** Theory of Automata & Formal Languages, Compiler Construction
 - **Final Year Project:**
   - **Title:** Costaz
   - **Description:** A Flutter application assisting teachers in managing student records, attendance, marks, and assignments, securely storing data in Google Drive via Google Sheets.
