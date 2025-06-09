@@ -76,17 +76,18 @@ Aspiring to engage in dynamic roles within the expansive field of computer scien
 **Position:** .NET Developer  
 **Duration:** June 2023 - Present  
 - **Responsibilities:**
-  - Implementing cryptography and security measures in systems using  and C++
-  - Integration and maintenance of payout partner APIs ensuring secure transactions
-  - Development and maintenance of a featureful Employee Monitoring Suite
-  - Modernizing and optimizing legacy systems using .NET 8 and AvaloniaUI
+  - **System Architecture & Design:** Architected and engineered critical systems, including the "ACE Password Vault," featuring bespoke, world-class security. Provided expert consultancy on security, cryptography, and scalable PWA architecture.
+  - **UI/UX Leadership:** Led the UI/UX design for the new Accounts and Treasury Management Suites after my designs for the Employee Monitoring Suite captured the attention of the CTO and PMs. Crafted unique, user-centric interfaces praised for their compactness, readability, and ease of use.
+  - **Full-Stack Development:** Developed and designed significant components of the Accounts and Treasury Management Systems (AMS/TMS). Contributed to making a core web application scalable with a SaaS-first approach, earning praise for cleverly engineered solutions.
+  - **Security & Integration:** Implemented advanced cryptography (RSA, AES, HMAC) and security measures in systems using C++ and .NET. Integrated and maintained secure payout partner APIs.
+  - **System Modernization:** Modernized and optimized legacy systems using .NET 8, .NET 9, and AvaloniaUI, introducing GraphQL APIs to streamline development.
 - **Achievements:**
-  - Implemented a two-layer encryption system (RSA & AES with HMAC) for the Punjab National Bank API
-  - Crafted an Employee Monitoring Suite enhancing productivity (details in the Projects section)
-  - Developed a real-time dashboard and backoffice in .NET 9 with Blazor for the monitoring
-  - Modernized existing monitoring tools using .NET 9 and AvaloniaUI
-  - Introduced GraphQL APIs for streamlined development processes
-  - JWT Management and Configuration for the Payout Partners in the APIs
+  - Successfully architected and delivered the "ACE Password Vault," a vital and highly secure asset for the company.
+  - My user-centric designs for critical management suites were highly praised by senior leadership and end-users, significantly improving user experience.
+  - Received direct commendation from the CTO and PMs for innovative, scalable architectural solutions and high-quality design work.
+  - Enhanced system security by implementing a two-layer encryption system for a major banking partner API.
+  - Increased team productivity by 200% through the development of an Employee Monitoring Suite (details in Projects).
+  - Modernized key internal tools, improving performance and maintainability.
 
 ### TeqHolic
 **Position:** Intern  
@@ -102,7 +103,9 @@ With a passion for computers since age 3, I've developed a comprehensive skill s
 
 | Category                   | Skills |
 | -------------------------- | --- |
-| Programming                | C++ (expert),  (advanced), Dart (proficient), Python (intermediate) |
+| Programming                | C++ (expert), C# (advanced), Dart (proficient), Python (intermediate) |
+| System & Software Design   | System Architecture Design, Scalable & SaaS-first Architecture, Extensible Software Design |
+| UI/UX Design               | Material 3, Fluent 2 Design System, Minimalist & User-Centric Design, Wireframing & Prototyping |
 | C++ Expertise              | Modern C++ (till C++23/26), SFINAE, STL, Multithreading, File I/O, Smart Pointers, Lambdas |
 | Cryptography and Security  | DES, AES, RSA, Key Generation (PBKDF2, Scrypt, Argon2), HMAC, EC Cryptography, OpenSSL API, `mr_crypt` library, Ethical Hacking, Penetration Testing, Mobile Security Assessments |
 | Artificial Intelligence    | Machine Learning Algorithms, Neural Networks, AI-assisted Development, Prompt Engineering |
@@ -117,9 +120,9 @@ With a passion for computers since age 3, I've developed a comprehensive skill s
 ## Projects
 
 ### Employee Monitoring Suite
-- **Role:** Lead Developer  
+- **Role:** Lead Developer & UI/UX Designer
 - **Technologies Used:** C# 13, .NET 9, AvaloniaUI, Blazor, GraphQL API, Micro-ORM, ApexCharts, Microsoft SQL Server
-- **Description:** Developed an Intune and DeskTime-like suite for monitoring employee activities, including:
+- **Description:** Architected and developed an Intune and DeskTime-like suite for monitoring employee activities. My design for the desktop client and dashboard was highly praised by the CTO and PMs, leading to broader design responsibilities across the company. The suite includes:
   - Real-time monitoring of active windows and applications
   - Screenshot capturing at regular intervals
   - Tracking of active/idle time
@@ -127,7 +130,13 @@ With a passion for computers since age 3, I've developed a comprehensive skill s
   - Integration with a GraphQL API for data retrieval
   - Real-time dashboard in Blazor for productivity analysis
   - Admin panels to manage client-app configurations and generate reports
-- **Impact:** Improved overall team productivity by 200% and reduced unauthorized breaks by 35%
+- **Impact:** Improved overall team productivity by 200% and reduced unauthorized breaks by 35%. The project's success and design quality established my reputation as a key designer within the organization.
+
+### ACE Password Vault
+- **Role:** Lead Architect & Security Consultant
+- **Technologies Used:** .NET, C++, Blazor (PWA), Modern Cryptography, Custom Security Protocols
+- **Description:** Architected and engineered a vital company asset for secure password management from the ground up. Provided expert consultancy on all facets of the project, including its extensible architecture, PWA development, and advanced security.
+- **Impact:** Delivered a world-class, highly secure password management solution with custom-built security mechanisms, now integral to the company's operational security.
 
 ### mr_crypt
 - **Role:** Developer  
@@ -142,9 +151,9 @@ With a passion for computers since age 3, I've developed a comprehensive skill s
 - **Publications:** Authored several educational articles on **Null Byte** to share and preserve findings, contributing to the broader cyber security community (details in the Publications section).
 
 ### Costaz (Final Year Project)
-- **Role:** Lead Developer  
+- **Role:** Lead Developer & Designer
 - **Technologies Used:** Flutter, Google Sheets API, Google Drive API, Google Authentication API  
-- **Description:** A Flutter application designed to assist teachers in managing student records and assignments with data stored securely on Google Drive.
+- **Description:** A Flutter application designed to assist teachers in managing student records and assignments. The UI was carefully crafted with a minimalist, user-centric philosophy to avoid overwhelming users, a design choice praised by those who have used it. Data is stored securely on Google Drive.
 - **Impact:** Streamlined the student record-keeping process, reducing manual data entry by 50% and improving data accuracy by 30%.
 
 ### Chirp
