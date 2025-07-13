@@ -159,8 +159,9 @@
         "programming": [
             "C++ (expert, including C++23/26)",
             "C# (advanced)",
-            "Dart (proficient)",
-            "Python (intermediate)"
+            "Python (intermediate)",
+            "MATLAB (scientific computing)",
+            "Dart (proficient)"
         ],
         "engineering_and_architecture": [
             "System Architecture Design",
@@ -203,6 +204,14 @@
             "Machine Learning Integration",
             "Neural Network Implementation",
             "AI as Engineering Accelerator"
+        ],
+        "scientific_computing": [
+            "Quantum Computing Simulation",
+            "Signal Processing",
+            "Indoor Positioning Systems",
+            "MATLAB",
+            "Scientific Visualization",
+            "Computational Physics"
         ],
         "game_development": [
             "Game Engine Architecture",
@@ -269,6 +278,21 @@
         ]
     },
     "projects": [
+        {
+            "title": "UWB Indoor Positioning Simulation System",
+            "role": "Lead Developer & System Architect",
+            "technologies": [
+                "C# 13",
+                ".NET 9",
+                "WPF",
+                "Python 3.13",
+                "Signal Processing",
+                "Heatmap Visualization",
+                "Computational Geometry"
+            ],
+            "description": "Single-handedly designed and implemented a sophisticated Ultra-Wideband (UWB) simulation system for MIMOS Berhad from December 2024 to July 2025. The system enables precise indoor positioning simulation through an intuitive interface where users can upload building floorplans, strategically place anchor points, and generate real-time heatmaps visualizing signal coverage, density over time and distance, and signal intersections. Engineered a complex obstacle management system capable of modeling various materials with different attenuation factors and geometries, accurately calculating and visualizing their effects on signal propagation.",
+            "impact": "Delivered a high-precision simulation tool that exceeded client expectations, receiving specific praise for exceptional attention to detail and accuracy. The system enables MIMOS Berhad to optimize UWB deployments without costly physical testing, significantly reducing implementation time and costs while improving positioning accuracy in complex indoor environments."
+        },
         {
             "title": "Enterprise Resource Planning (ERP) System",
             "role": "Architecture Consultant & UI/UX Engineer",
@@ -444,6 +468,15 @@
             ]
         }
     },
+    "research_collaborations": [
+        {
+            "title": "Quantum Computing and Photonics Simulation Research",
+            "collaborator": "Visiting Professor (PhD)",
+            "institution": "University of the Punjab, Jhelum Campus",
+            "duration": "2023-2024",
+            "description": "Collaborated with a visiting PhD professor on advanced research projects in quantum computing simulation and photonics. Developed specialized simulation tools in Python and MATLAB to model complex quantum phenomena and photon behavior in various experimental setups including mirror arrays, emitters, and detectors. This work supported research initiatives in Malaysia, contributing to the field of quantum optics and photonics."
+        }
+    ],
     "certifications_and_training": [
         "Modern C++ Mastery with Respect to Game Development by TheCherno (YouTube)",
         "Advanced Cryptography Course by Christof Paar (YouTube)",
