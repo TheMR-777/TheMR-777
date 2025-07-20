@@ -6,6 +6,13 @@
         "phone": "+92 314 5401405",
         "date_of_birth": "April 1, 2001",
         "nationality": "Pakistani",
+        "taglines": [
+            "Software Architect & Security Engineer",
+            "C++ Expert & Cryptography Specialist",
+            ".NET Engineer at ACE Money Transfer",
+            "AI-Powered Innovation Engineer",
+            "Creating What Hasn't Been Built Before"
+        ],
         "social_links": [
             {
                 "platform": "GitHub",
@@ -161,7 +168,9 @@
             "C# (advanced)",
             "Python (intermediate)",
             "MATLAB (scientific computing)",
-            "Dart (proficient)"
+            "Dart (proficient)",
+            "JavaScript (intermediate)",
+            "TypeScript (intermediate)"
         ],
         "engineering_and_architecture": [
             "System Architecture Design",
@@ -211,7 +220,10 @@
             "Indoor Positioning Systems",
             "MATLAB",
             "Scientific Visualization",
-            "Computational Physics"
+            "Computational Physics",
+            "NumPy",
+            "SciPy",
+            "Matplotlib"
         ],
         "game_development": [
             "Game Engine Architecture",
@@ -279,7 +291,7 @@
     },
     "projects": [
         {
-            "title": "UWB Indoor Positioning Simulation System",
+            "title": "UWB Indoor Positioning & Localization Simulation System",
             "role": "Lead Developer & System Architect",
             "technologies": [
                 "C# 13",
@@ -288,9 +300,12 @@
                 "Python 3.13",
                 "Signal Processing",
                 "Heatmap Visualization",
-                "Computational Geometry"
+                "Computational Geometry",
+                "NumPy",
+                "SciPy",
+                "Matplotlib"
             ],
-            "description": "Single-handedly designed and implemented a sophisticated Ultra-Wideband (UWB) simulation system for MIMOS Berhad from December 2024 to July 2025. The system enables precise indoor positioning simulation through an intuitive interface where users can upload building floorplans, strategically place anchor points, and generate real-time heatmaps visualizing signal coverage, density over time and distance, and signal intersections. Engineered a complex obstacle management system capable of modeling various materials with different attenuation factors and geometries, accurately calculating and visualizing their effects on signal propagation.",
+            "description": "Single-handedly designed and implemented a sophisticated Ultra-Wideband (UWB) simulation system for MIMOS Berhad from December 2024 to July 2025. The system enables precise indoor positioning simulation through an intuitive interface where users can upload building floorplans, strategically place anchor points, generate real-time heatmaps visualizing signal coverage, density over time and distance, signal intersections, and localize objects in the room. Engineered a complex obstacle management system capable of modeling various materials with different attenuation factors and geometries, accurately calculating and visualizing their effects on signal propagation.",
             "impact": "Delivered a high-precision simulation tool that exceeded client expectations, receiving specific praise for exceptional attention to detail and accuracy. The system enables MIMOS Berhad to optimize UWB deployments without costly physical testing, significantly reducing implementation time and costs while improving positioning accuracy in complex indoor environments."
         },
         {
@@ -373,7 +388,7 @@
                 "Google Authentication API",
                 "Custom Data Synchronization System"
             ],
-            "description": "Engineered an innovative solution to educational record management challenges by creating a sophisticated Flutter application with a custom-designed data synchronization system. Approached the problem from first principles, designing a system that could operate reliably in environments with limited connectivity while maintaining data integrity. The architecture leverages Google's APIs in unconventional ways to create a lightweight yet powerful database alternative that minimizes resource requirements.",
+            "description": "Developed a student records management system after surveying 10+ professors across different fields at our university. Built a fully decentralized Flutter application that uses professors' own Google accounts for data storage, allowing easy access via Google Sheets and Excel export for reports. Focused on simplicity and minimalism to deliver exactly what professors needed most, ensuring reliable operation in environments with limited connectivity while maintaining data integrity.",
             "impact": "Revolutionized student record management workflows by reducing manual data entry by 50% and improving data accuracy by 30%. The system's innovative architecture received recognition for its elegant approach to solving complex data management challenges with minimal resources."
         },
         {
@@ -419,6 +434,7 @@
         "cyber_security_articles": {
             "author_pseudonym": "H4ck3R_777",
             "platform": "Null Byte",
+            "profile_link": "https://null-byte.wonderhowto.com/how-to/h4ck3r-777/",
             "articles": [
                 {
                     "title": "Embed Metasploit Payload in Original APK Files",
@@ -430,8 +446,8 @@
                 {
                     "title": "Android Device Security Assessments with Termux on Android",
                     "parts": [
-                        "Part 1: Over the Internet [Ultimate Guide]",
-                        "Part 2: Over WLAN Hotspot [Ultimate Guide]"
+                        "Part 1: Over the Internet",
+                        "Part 2: Over WLAN Hotspot"
                     ]
                 },
                 {
@@ -451,19 +467,19 @@
                 {
                     "title": "File System Operations in Kali Linux",
                     "parts": [
-                        "See How to Write to an NTFS Partition of HDD/SSD in Kali Linux (The Ultimate Guide)"
+                        "See How to Write to an NTFS Partition of HDD/SSD in Kali Linux"
                     ]
                 },
                 {
                     "title": "APK File Signing Techniques",
                     "parts": [
-                        "Sign the APK File with Embedded Payload (The Ultimate Guide)"
+                        "Sign the APK File with Embedded Payload"
                     ]
                 }
             ],
             "highlights": [
                 "The article '*Android Device Security Assessments with Termux on Android: Part 1 - Over the Internet [Ultimate Guide]*' gained significant popularity from 2018 to 2020, becoming the second most-read article on Null Byte.",
-                "Due to its widespread attention, the content was refined to focus on technical details aimed at professionals in the field, ensuring responsible dissemination of information.",
+                "Due to its widespread attention, the content was refined to focus only on technical details aimed at professionals in the field, ensuring responsible dissemination of information.",
                 "The articles were crafted to educate readers on mobile security, ethical hacking practices, and the importance of securing Android devices against potential vulnerabilities."
             ]
         }
