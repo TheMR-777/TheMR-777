@@ -1,6 +1,14 @@
+
+
 # Muhammad Ammar Khan
 
-![Profile Banner](https://i.imgur.com/WiI2OZb.png)
+![Profile Banner](https://i.imgur.com/WiI2OZb.png  )
+
+> Software Architect & Security Engineer
+> C++ Expert & Cryptography Specialist
+> .NET Engineer at ACE Money Transfer
+> AI-Powered Innovation Engineer
+> Creating What Hasn't Been Built Before
 
 ## Contact Information
 - **Location:** District Jhelum, Punjab, Pakistan
@@ -16,37 +24,37 @@
   </picture>
 </a>
 
-<a href="https://wa.me/923145401405">
+<a href="https://wa.me/923145401405  ">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/WhatsApp-%2B92%20314%205401405-%23075E54?logo=whatsapp&style=flat">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/WhatsApp-%2B92%20314%205401405-%23DFFFD6?logo=whatsapp&style=flat">
-    <img alt="WhatsApp Badge" src="https://img.shields.io/badge/WhatsApp-%2B92%20314%205401405-%23075E54?logo=whatsapp&style=flat">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/WhatsApp-%2B92%20314%205401405-%23075E54?logo=whatsapp&style=flat  ">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/WhatsApp-%2B92%20314%205401405-%23DFFFD6?logo=whatsapp&style=flat  ">
+    <img alt="WhatsApp Badge" src="https://img.shields.io/badge/WhatsApp-%2B92%20314%205401405-%23075E54?logo=whatsapp&style=flat  ">
   </picture>
 </a>
 
 <a href="mailto:m.shahzad.ms72@gmail.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-m.shahzad.ms72%40gmail.com-%23EA4335?logo=gmail&style=flat">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-m.shahzad.ms72%40gmail.com-%23FFE4E1?logo=gmail&style=flat">
-    <img alt="Email Badge" src="https://img.shields.io/badge/Email-m.shahzad.ms72%40gmail.com-%23EA4335?logo=gmail&style=flat">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-m.shahzad.ms72%40gmail.com-%23EA4335?logo=gmail&style=flat  ">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-m.shahzad.ms72%40gmail.com-%23FFE4E1?logo=gmail&style=flat  ">
+    <img alt="Email Badge" src="https://img.shields.io/badge/Email-m.shahzad.ms72%40gmail.com-%23EA4335?logo=gmail&style=flat  ">
   </picture>
 </a>
 
 ## Personal Statement
 
-As a lifelong computer enthusiast with a deep passion for **Cyber Security**, **Ethical Hacking**, **Artificial Intelligence**, and **Game Development**, I have mastered my skills in software development and computer science from an early age. My expertise in modern C++, cryptography, AI, and cutting-edge software engineering practices allows me to solve complex challenges efficiently. I am dedicated to leveraging advanced techniques and tools to drive innovation and excellence across various domains of computer science, with a keen focus on security, AI, and creative problem-solving.
+As a lifelong computer enthusiast with an innate drive to innovate and engineer novel solutions, I've cultivated deep expertise in **Cyber Security**, **Ethical Hacking**, **Artificial Intelligence**, and **Game Development** from an early age. My passion for pushing technological boundaries is complemented by advanced skills in modern C++, cryptography, and cutting-edge software engineering practices. Throughout my journey, I've consistently sought to create what hasn't been built before, approaching complex challenges with a systematic engineering mindset. This pioneering approach has enabled me to architect world-class solutions across various domains, always striving for excellence in security, performance, and design.
 
 ## Career Objective
 
-Aspiring to engage in dynamic roles within the expansive field of computer science, leveraging my expertise in modern C++, software development, cryptography, AI-assisted problem-solving, and cyber security to contribute to innovative technological advancements. I aim to pursue a career that integrates my diverse interests in **Artificial Intelligence**, **Cyber Security**, **Ethical Hacking**, **Gaming**, and more, driving innovation and excellence in every project.
+Seeking challenging opportunities to architect and engineer innovative solutions at the forefront of technology. With expertise in modern C++, system architecture, cryptography, and AI-assisted development, I aim to create impactful software that breaks new ground. My goal is to leverage my diverse technical background in **Artificial Intelligence**, **Cyber Security**, **System Architecture**, and **Performance Engineering** to solve complex problems that others consider impossible, continuing my trajectory of delivering excellence through thoughtfully designed systems and creative problem-solving.
 
 ## Education
 
 ### BS (Honors) in Computer Science
-**University of the Punjab, Jhelum Campus**  
-**Year:** 2023  
+**University of the Punjab, Jhelum Campus**
+**Year:** 2023
 - **CGPA:** 3.73/4.0
-- **Key Coursework:** 
+- **Key Coursework:**
   - **Computing & Software:** Data Structures & Algorithms, Analysis of Algorithms, Software Engineering, Object-Oriented Analysis & Design, Software Quality Assurance
   - **Systems & Architecture:** Operating Systems, Computer Architecture, System Programming
   - **Security & Networking:** Network Security, Computer Networks
@@ -59,39 +67,40 @@ Aspiring to engage in dynamic roles within the expansive field of computer scien
   - **Technologies Used:** Flutter, Google Sheets API, Google Drive API, Google Authentication API
 
 ### Intermediate in Pre-Engineering
-*F.G. Intermediate College, Jhelum Cantt*  
-- **Year:** 2019  
-- **Marks:** 743/1100  
+*F.G. Intermediate College, Jhelum Cantt*
+- **Year:** 2019
+- **Marks:** 743/1100
 - **Percentage:** 67.5%
 
-### Matriculation  
-*F.G. Public School, Jhelum Cantt*  
-- **Year:** 2017  
-- **Marks:** 845/1050  
+### Matriculation
+*F.G. Public School, Jhelum Cantt*
+- **Year:** 2017
+- **Marks:** 845/1050
 - **Percentage:** 80.5%
 
 ## Work Experience
 
 ### ACE Money Transfer
-**Position:** .NET Developer  
-**Duration:** June 2023 - Present  
+**Position:** .NET Developer & Architecture Consultant
+**Duration:** June 2023 - Present
 - **Responsibilities:**
-  - **System Architecture & Design:** Architected and engineered critical systems, including the "ACE Password Vault," featuring bespoke, world-class security. Provided expert consultancy on security, cryptography, and scalable PWA architecture.
-  - **UI/UX Leadership:** Led the UI/UX design for the new Accounts and Treasury Management Suites after my designs for the Employee Monitoring Suite captured the attention of the CTO and PMs. Crafted unique, user-centric interfaces praised for their compactness, readability, and ease of use.
-  - **Full-Stack Development:** Developed and designed significant components of the Accounts and Treasury Management Systems (AMS/TMS). Contributed to making a core web application scalable with a SaaS-first approach, earning praise for cleverly engineered solutions.
-  - **Security & Integration:** Implemented advanced cryptography (RSA, AES, HMAC) and security measures in systems using C++ and .NET. Integrated and maintained secure payout partner APIs.
-  - **System Modernization:** Modernized and optimized legacy systems using .NET 8, .NET 9, and AvaloniaUI, introducing GraphQL APIs to streamline development.
+  - **System Architecture & Design:** Architected and engineered mission-critical systems from concept to implementation, including the "ACE Password Vault" with bespoke security architecture. Provided expert consultancy on security infrastructure, cryptographic implementations, and scalable PWA architecture.
+  - **UI/UX Leadership:** Led the UI/UX design initiatives for enterprise management suites after my innovative designs for the Employee Monitoring Suite gained recognition from executive leadership. Created intuitive, efficient interfaces that balance aesthetic appeal with functional excellence.
+  - **Full-Stack Development:** Designed and developed core components of the Accounts and Treasury Management Systems (AMS/TMS) with a focus on extensibility and scalability. Currently serving as key architectural consultant for the company's enterprise ERP initiative, implementing a simplicity-driven approach to complex system design.
+  - **Security & Integration:** Engineered advanced cryptographic solutions and security measures using C++ and .NET, implementing multi-layered encryption systems (RSA, AES, HMAC) for sensitive financial data and partner APIs.
+  - **System Modernization:** Modernized legacy systems through strategic technical migrations to .NET 8/9 and AvaloniaUI, introducing GraphQL APIs to enhance developer experience and system performance.
 - **Achievements:**
-  - Successfully architected and delivered the "ACE Password Vault," a vital and highly secure asset for the company.
-  - My user-centric designs for critical management suites were highly praised by senior leadership and end-users, significantly improving user experience.
-  - Received direct commendation from the CTO and PMs for innovative, scalable architectural solutions and high-quality design work.
-  - Enhanced system security by implementing a two-layer encryption system for a major banking partner API.
-  - Increased team productivity by 200% through the development of an Employee Monitoring Suite (details in Projects).
-  - Modernized key internal tools, improving performance and maintainability.
+  - Engineered the "ACE Password Vault" from the ground up, delivering a sophisticated security solution that became a critical company asset with world-class protection mechanisms.
+  - Revolutionized the company's approach to UI/UX design through innovative, user-centric interfaces that significantly improved efficiency and user satisfaction across multiple enterprise applications.
+  - Received direct commendation from the CTO for architectural innovations and engineering excellence that solved previously intractable technical challenges.
+  - Transformed the scope of the company's ERP project by architecting a multi-tenant solution capable of serving the entire ACE Group of Companies rather than just a single business unit, significantly increasing the system's value and potential ROI.
+  - Enhanced system security for a major banking partner through a custom-designed two-layer encryption system that exceeded industry standards.
+  - Transformed team productivity by engineering an Employee Monitoring Suite that overcame complex OS-level challenges to deliver reliable, high-performance monitoring while maintaining code quality and architectural integrity.
+  - Established reputation as a key technical innovator, earning a role as architecture consultant on the company's strategic ERP initiative.
 
 ### TeqHolic
-**Position:** Intern  
-**Duration:** 3 Months  
+**Position:** Intern
+**Duration:** 3 Months
 - **Responsibilities:**
   - Developed frontend applications using Flutter and Firebase
   - Built **Chirp**, a social media application similar to Twitter
@@ -103,90 +112,97 @@ With a passion for computers since age 3, I've developed a comprehensive skill s
 
 | Category                   | Skills |
 | -------------------------- | --- |
-| Programming                | C++ (expert), C# (advanced), Dart (proficient), Python (intermediate) |
-| System & Software Design   | System Architecture Design, Scalable & SaaS-first Architecture, Extensible Software Design |
+| Programming                | C++ (expert, including C++23/26), C# (advanced), Python (intermediate), MATLAB (scientific computing), Dart (proficient), JavaScript (intermediate), TypeScript (intermediate) |
+| Engineering & Architecture | System Architecture Design, Scalable & SaaS-first Architecture, Extensible Software Design, Performance Optimization, Low-level Systems Programming, Technical Problem Solving |
 | UI/UX Design               | Material 3, Fluent 2 Design System, Minimalist & User-Centric Design, Wireframing & Prototyping |
-| C++ Expertise              | Modern C++ (till C++23/26), SFINAE, STL, Multithreading, File I/O, Smart Pointers, Lambdas |
-| Cryptography and Security  | DES, AES, RSA, Key Generation (PBKDF2, Scrypt, Argon2), HMAC, EC Cryptography, OpenSSL API, `mr_crypt` library, Ethical Hacking, Penetration Testing, Mobile Security Assessments |
-| Artificial Intelligence    | Machine Learning Algorithms, Neural Networks, AI-assisted Development, Prompt Engineering |
-| Game Development           | Knowledge of Game Design Principles, Experience with Game Engines |
-| Frameworks                 | .NET, AvaloniaUI, Blazor, Xamarin, Qt C++, Flutter, Firebase, Google APIs |
-| Paradigms                  | - Data-Oriented Design <br> - Object-Oriented Programming <br> - Functional Programming (Monads) <br> - Template-Meta Programming |
+| C++ Expertise              | Modern C++ Paradigms, Template Metaprogramming, SFINAE & Concepts, STL Implementation, Multithreading & Concurrency, Memory Management, Performance Optimization |
+| Cryptography and Security  | Cryptographic System Design, Security Architecture, Advanced Encryption (AES, RSA, ECC), Key Generation & Management, HMAC & Authentication Systems, OpenSSL API Integration, mr_crypt Library Development, Ethical Hacking, Penetration Testing, Mobile Security Engineering |
+| Artificial Intelligence    | AI-Assisted Development, Advanced Prompt Engineering, Machine Learning Integration, Neural Network Implementation, AI as Engineering Accelerator |
+| Scientific Computing       | Quantum Computing Simulation, Signal Processing, Indoor Positioning Systems, MATLAB, Scientific Visualization, Computational Physics, NumPy, SciPy, Matplotlib |
+| Game Development           | Game Engine Architecture, Performance Optimization for Games, Game Systems Design |
+| Frameworks                 | .NET Framework & Core (through .NET 9), AvaloniaUI (UI Framework), Blazor (Web Framework), Angular (Web Framework), PrimeNG (UI Component Library), Flutter (Cross-platform Framework), Qt C++ (Native Framework), Firebase (Backend Services), Google Cloud APIs, GraphQL (API Framework) |
+| Paradigms                  | Data-Oriented Design, Object-Oriented Programming, Functional Programming & Monadic Patterns, Template Metaprogramming, Aspect-Oriented Programming, Component-Based Architecture, Microservices Architecture, Event-Driven Architecture |
 | APIs                       | REST, SOAP, GraphQL |
-| Database Management        | SQLite, Microsoft SQL Server, MySQL |
+| Database Management        | MySQL (with EAV Design), Microsoft SQL Server, SQLite, Redis (Caching), Stored Procedures |
+| Architecture Patterns      | Entity-Attribute-Value Model, Unit of Work Pattern, Repository Pattern, Approval Workflow Systems, Multi-tenancy Architecture, Simplicity-Driven Design |
 | Tools & Platforms          | Visual Studio, IntelliJ IDEA, VS Code, Git & GitHub, Google Colab & Jupyter Notebook, Jira, Linux, Windows, macOS |
 | AI & Problem-Solving       | Advanced Google Search Operators, AI-assisted development (harnessing GPTs, Claude, LLaMA, Command R+, GitHub Copilot, Microsoft Copilot, Mixtral AI, Google's Gemini), AI Prompt Engineering |
 
 ## Projects
 
+### UWB Indoor Positioning & Localization Simulation System
+- **Role:** Lead Developer & System Architect
+- **Technologies Used:** C# 13, .NET 9, WPF, Python 3.13, Signal Processing, Heatmap Visualization, Computational Geometry, NumPy, SciPy, Matplotlib
+- **Description:** Single-handedly designed and implemented a sophisticated Ultra-Wideband (UWB) simulation system for MIMOS Berhad from December 2024 to July 2025. The system enables precise indoor positioning simulation through an intuitive interface where users can upload building floorplans, strategically place anchor points, generate real-time heatmaps visualizing signal coverage, density over time and distance, signal intersections, and localize objects in the room. Engineered a complex obstacle management system capable of modeling various materials with different attenuation factors and geometries, accurately calculating and visualizing their effects on signal propagation.
+- **Impact:** Delivered a high-precision simulation tool that exceeded client expectations, receiving specific praise for exceptional attention to detail and accuracy. The system enables MIMOS Berhad to optimize UWB deployments without costly physical testing, significantly reducing implementation time and costs while improving positioning accuracy in complex indoor environments.
+
+### Enterprise Resource Planning (ERP) System
+- **Role:** Architecture Consultant & UI/UX Engineer
+- **Technologies Used:** Angular 20, PrimeNG, C# 13, .NET 9, MySQL with EAV Design, GraphQL, Redis, Unit of Work Pattern, Stored Procedures, Multi-tenant Architecture
+- **Description:** Contributing to the architecture and design of a comprehensive ERP system built with scalability and flexibility as core principles. Led the transformation of a single-company solution into a multi-company platform capable of serving the entire ACE Group of Companies and potentially other enterprise groups. Engineered the Primary Control Center for administrators, featuring a sophisticated multi-level approval workflow system that elegantly handles complex business processes through a standardized, reliable interface. Meticulously designed the Admin Tools module, implementing user management, privilege controls, role-based access systems, and multi-company enterprise management capabilities.
+- **Impact:** Transformed the project scope from a single-company tool to a true enterprise-grade ERP system capable of supporting diverse business units across multiple companies. Established architectural patterns that significantly reduced development complexity while enhancing system flexibility. The PrimeNG component recommendation was widely adopted and praised by the lead developer for its elegance and efficiency. The approval workflow system has become a cornerstone of the application, enabling standardized business processes across the organization.
+
 ### Employee Monitoring Suite
-- **Role:** Lead Developer & UI/UX Designer
+- **Role:** Lead Developer & System Architect
 - **Technologies Used:** C# 13, .NET 9, AvaloniaUI, Blazor, GraphQL API, Micro-ORM, ApexCharts, Microsoft SQL Server
-- **Description:** Architected and developed an Intune and DeskTime-like suite for monitoring employee activities. My design for the desktop client and dashboard was highly praised by the CTO and PMs, leading to broader design responsibilities across the company. The suite includes:
-  - Real-time monitoring of active windows and applications
-  - Screenshot capturing at regular intervals
-  - Tracking of active/idle time
-  - Detection and logging of all kinds of breaks
-  - Integration with a GraphQL API for data retrieval
-  - Real-time dashboard in Blazor for productivity analysis
-  - Admin panels to manage client-app configurations and generate reports
-- **Impact:** Improved overall team productivity by 200% and reduced unauthorized breaks by 35%. The project's success and design quality established my reputation as a key designer within the organization.
+- **Description:** Engineered a sophisticated monitoring system that overcame significant OS-level challenges to deliver reliable, high-performance tracking of employee activities. Designed the architecture to handle complex concurrency issues, system-level interactions, and real-time data processing while maintaining exceptional performance. The suite's innovative design balances comprehensive monitoring capabilities with an elegant, intuitive interface that received executive-level recognition for its excellence.
+- **Impact:** Transformed team productivity by 200% and reduced unauthorized breaks by 35% through intelligent system design. The project's technical sophistication and elegant architecture established my reputation as both a skilled engineer and innovative designer within the organization.
 
 ### ACE Password Vault
-- **Role:** Lead Architect & Security Consultant
+- **Role:** Lead Architect & Security Engineer
 - **Technologies Used:** .NET, C++, Blazor (PWA), Modern Cryptography, Custom Security Protocols
-- **Description:** Architected and engineered a vital company asset for secure password management from the ground up. Provided expert consultancy on all facets of the project, including its extensible architecture, PWA development, and advanced security.
-- **Impact:** Delivered a world-class, highly secure password management solution with custom-built security mechanisms, now integral to the company's operational security.
+- **Description:** Designed and engineered a sophisticated password management system with a security-first architecture that implements multiple layers of protection beyond industry standards. Developed custom cryptographic protocols and innovative security mechanisms to safeguard critical company credentials while maintaining exceptional usability.
+- **Impact:** Created a security solution that became a critical infrastructure component for the company, establishing new internal standards for secure application development and demonstrating my ability to engineer robust security systems from first principles.
 
 ### mr_crypt
-- **Role:** Developer  
-- **Technologies Used:** C++23, OpenSSL 3.0+ API  
-- **Description:** A modern, easy-to-use C++ library for cryptography with range-like syntax, supporting various hashing algorithms, symmetric & asymmetric encryption, and key generation using OpenSSL's C API.
-- **Impact:** Simplified cryptographic implementations for developers, reducing development time by ~10 times, and improving code readability while ensuring high security standards.
+- **Role:** Creator & Principal Engineer
+- **Technologies Used:** C++23, OpenSSL 3.0+ API, Template Metaprogramming
+- **Description:** Engineered a modern C++ cryptography library that reimagines how developers interact with cryptographic primitives. Designed with an innovative range-like syntax that dramatically simplifies implementation while maintaining security integrity. The library leverages advanced C++ features and template metaprogramming to provide an intuitive yet powerful interface to OpenSSL's C API.
+- **Impact:** Revolutionized cryptographic implementation workflows for developers by reducing development time by approximately 10x while significantly improving code readability and maintaining rigorous security standards.
 
 ### Mobile Security Research and Publications
-- **Role:** Cyber Security Researcher and Author  
-- **Technologies Used:** Android OS, Security Analysis Tools, Custom Scripts  
-- **Description:** Conducted extensive research on Android mobile security, focusing on ethical hacking techniques to identify and mitigate vulnerabilities. Developed innovative methods for mobile-to-mobile security assessments due to limited access to traditional computing resources. Successfully demonstrated security evaluations of Android devices in controlled environments.
-- **Publications:** Authored several educational articles on **Null Byte** to share and preserve findings, contributing to the broader cyber security community (details in the Publications section).
+- **Role:** Cyber Security Researcher and Pioneer
+- **Technologies Used:** Android OS, Security Analysis Tools, Custom Penetration Testing Scripts, Mobile-to-Mobile Security Framework
+- **Description:** Pioneered innovative approaches to mobile security research in 2018, driven by a passion to explore the boundaries of what's possible in software security. Developed groundbreaking methods for conducting security assessments using only mobile devices when traditional computing resources were unavailable—a challenge many considered impossible. This work demonstrated my ability to engineer creative solutions to complex technical problems by reimagining conventional security testing paradigms.
+- **Publications:** Authored highly influential educational articles on **Null Byte** that gained significant recognition in the cyber security community, with one becoming the second most-read article on the platform from 2018-2020 (details in the Publications section).
 
 ### Costaz (Final Year Project)
-- **Role:** Lead Developer & Designer
-- **Technologies Used:** Flutter, Google Sheets API, Google Drive API, Google Authentication API  
-- **Description:** A Flutter application designed to assist teachers in managing student records and assignments. The UI was carefully crafted with a minimalist, user-centric philosophy to avoid overwhelming users, a design choice praised by those who have used it. Data is stored securely on Google Drive.
-- **Impact:** Streamlined the student record-keeping process, reducing manual data entry by 50% and improving data accuracy by 30%.
+- **Role:** Lead Developer & System Architect
+- **Technologies Used:** Flutter, Google Sheets API, Google Drive API, Google Authentication API, Custom Data Synchronization System
+- **Description:** Developed a student records management system after surveying 10+ professors across different fields at our university. Built a fully decentralized Flutter application that uses professors' own Google accounts for data storage, allowing easy access via Google Sheets and Excel export for reports. Focused on simplicity and minimalism to deliver exactly what professors needed most, ensuring reliable operation in environments with limited connectivity while maintaining data integrity.
+- **Impact:** Revolutionized student record management workflows by reducing manual data entry by 50% and improving data accuracy by 30%. The system's innovative architecture received recognition for its elegant approach to solving complex data management challenges with minimal resources.
 
 ### Chirp
-- **Role:** Frontend Developer  
-- **Technologies Used:** Flutter, Firebase  
-- **Description:** A simple social media application built to function similarly to X (Twitter), enabling real-time communication and content sharing.
+- **Role:** Frontend Engineer
+- **Technologies Used:** Flutter, Firebase, Real-time Data Synchronization, Responsive UI Architecture
+- **Description:** Engineered a social media application with a focus on performance optimization and responsive design. Implemented sophisticated state management and real-time data synchronization patterns to ensure a fluid user experience across various device capabilities and network conditions.
 
 ### Sara Kuch
-- **Role:** Frontend Developer  
-- **Technologies Used:** Flutter, Firebase, REST API of Shopify  
-- **Description:** An e-commerce application integrating Shopify's REST API for seamless product fetching and display.
+- **Role:** Frontend Engineer & API Integration Specialist
+- **Technologies Used:** Flutter, Firebase, Shopify REST API, Custom API Integration Layer
+- **Description:** Designed and implemented an e-commerce application with a custom API integration layer that elegantly handles the complexities of the Shopify REST API. Engineered a resilient caching system and optimized data flow patterns to ensure exceptional performance and reliability even under challenging network conditions.
 
 ## Research & Publications
 
-### Identification of Paddy Disease Along Its Processing Time  
-*Khan, S.N., Khan, S.U., Khan, M.A., Ansar, M.U., Shakeel, G.S., Ahmed, M., Zahid, N., & Ahmad, F.*  
-*Quantum Journal of Social Sciences and Humanities*, 4(3), 72-80  
-[Link to the Paper](https://doi.org/10.55197/qjssh.v4i3.251)  
+### Identification of Paddy Disease Along Its Processing Time
+*Khan, S.N., Khan, S.U., Khan, M.A., Ansar, M.U., Shakeel, G.S., Ahmed, M., Zahid, N., & Ahmad, F.*
+*Quantum Journal of Social Sciences and Humanities*, 4(3), 72-80 <br>
+[Link to the Paper](https://doi.org/10.55197/qjssh.v4i3.251  )
 
 - Developed an innovative image processing system for diagnosing paddy diseases.
 - Achieved high accuracy rates using advanced image processing techniques.
 
-### Paddy Leaf Disease Symptoms Detection Through Artificial Neural Network  
-*Khan, S.N., Khan, S.U., Ahmed, S., Khan, M.A., Khan, J.*  
-*Quantum Journal of Engineering, Science and Technology*, 4(4), 1-10  
-[Link to the Paper](https://qjoest.com/index.php/qjoest/article/view/123/75)  
+### Paddy Leaf Disease Symptoms Detection Through Artificial Neural Network
+*Khan, S.N., Khan, S.U., Ahmed, S., Khan, M.A., Khan, J.*
+*Quantum Journal of Engineering, Science and Technology*, 4(4), 1-10 <br>
+[Link to the Paper](https://qjoest.com/index.php/qjoest/article/view/123/75  )
 
 - Co-authored a research paper on the detection of paddy leaf disease symptoms using artificial neural networks.
 - Contributed to the development of a system that enhances the accuracy of disease detection in agricultural applications.
 - Participated in experiments that demonstrated improved performance in symptom detection using ANN with high accuracy.
 
 ### Cyber Security Articles on Null Byte
-*Authored under the pseudonym [H4ck3R_777](https://creator.wonderhowto.com/h4ck3r_777/)*
+*Authored under the pseudonym [H4ck3R_777](https://creator.wonderhowto.com/h4ck3r_777/  )*
 
 - **Embed Metasploit Payload in Original APK Files:**
   - *Part 1:* Using TheFatRat
@@ -210,6 +226,14 @@ With a passion for computers since age 3, I've developed a comprehensive skill s
 - Due to its widespread attention, the content was refined to focus on technical details aimed at professionals in the field, ensuring responsible dissemination of information.
 - The articles were crafted to educate readers on mobile security, ethical hacking practices, and the importance of securing Android devices against potential vulnerabilities.
 
+## Research Collaborations
+
+### Quantum Computing and Photonics Simulation Research
+- **Collaborator:** Visiting Professor (PhD)
+- **Institution:** University of the Punjab, Jhelum Campus
+- **Duration:** 2023-2024
+- **Description:** Collaborated with a visiting PhD professor on advanced research projects in quantum computing simulation and photonics. Developed specialized simulation tools in Python and MATLAB to model complex quantum phenomena and photon behavior in various experimental setups including mirror arrays, emitters, and detectors. This work supported research initiatives in Malaysia, contributing to the field of quantum optics and photonics.
+
 ## Certifications & Training
 
 - **Modern C++ Mastery with Respect to Game Development** by TheCherno (YouTube)
@@ -220,17 +244,19 @@ With a passion for computers since age 3, I've developed a comprehensive skill s
 
 ## Extracurricular Activities & University Engagement
 
-- **Founder and Leader of College Cyber Security Club:** Established and led a community of cyber security and ethical hacking enthusiasts for 3 years during college. Organized workshops, collaborative research projects, and knowledge-sharing sessions on cryptography, ethical hacking, and security best practices. The community fostered a culture of learning and innovation in the field of cyber security.
+- **Founder and Leader of International Cybersecurity Community:** Initiated and led a vibrant online community of cybersecurity enthusiasts spanning multiple countries, including Iran, Pakistan, India, Australia, Finland, and Bangladesh. Started with just two members and grew to include 13 dedicated mentors from diverse backgrounds. The community fostered knowledge sharing, collaborative learning, and innovative approaches to security challenges over a 4-year period. Successfully recruited fellow students from my college and university, creating a thriving local interest in cybersecurity that extended beyond academic boundaries.
 
-- **Class Representative & Student Mentor:** Acted as the unofficial Class Representative, fostering communication between students and faculty. Provided academic support to peers and conducted programming classes.
+- **Technical Mentor & Engineering Advocate:** Served as an unofficial technical leader among peers, fostering a culture of engineering excellence and innovative problem-solving. Conducted specialized programming sessions focused on modern C++ techniques, system architecture, and performance optimization, helping fellow students develop a deeper understanding of software engineering principles.
 
-- **Open Source Contributions:** Actively contributing to my cryptography library, `mr_crypt`, on GitHub. Furthermore, contributed to various open-source projects like `AvaloniaUI`, `Flutter`, and `fluent_ui`, enhancing my skills and knowledge in software development.
+- **Open Source Engineering Contributions:** Actively developing `mr_crypt`, an innovative cryptography library that reimagines how developers interact with cryptographic primitives. Contributing architectural improvements and performance optimizations to projects like `AvaloniaUI`, `Flutter`, and `fluent_ui`, focusing on elegant solutions to complex technical challenges.
 
-- **AI Prompt Engineering:** Developed specialized prompts for GPT models, optimizing their performance for specific fields and improving output accuracy. Skilled in enhancing the capabilities of various AI models through advanced prompt engineering techniques.
+- **AI Engineering Integration Pioneer:** Developing sophisticated approaches to integrate AI capabilities into the software engineering workflow. Created advanced prompt engineering techniques that enable AI systems to assist with complex architectural decisions, algorithm optimization, and system design challenges, establishing new paradigms for AI-assisted software development.
+
+- **ERP Architecture Consultant:** Serving as a key architectural consultant for ACE Money Transfer's enterprise-grade ERP system. Providing strategic guidance on system architecture using an Entity-Attribute-Value model for exceptional flexibility, recommending technology choices like PrimeNG components that were widely adopted, and designing sophisticated approval workflows and administrative systems. Applying a 'simplicity-driven innovation' philosophy to create elegant solutions to complex enterprise challenges.
 
 ## Languages
 
-- **Urdu:** Native  
+- **Urdu:** Native
 - **English:** 7.5 Bands in IELTS Academic
 
 | IELTS Module | Bands |
@@ -247,17 +273,17 @@ I have a diverse range of interests that complement my professional skills and c
 
 | Interest                        | Description                                                                                                                                        |
 | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Cyber Security & Ethical Hacking | Passionate about exploring security vulnerabilities, developing ethical hacking techniques, and securing systems against potential threats        |
-| Artificial Intelligence         | Exploring the latest trends in AI and machine learning, including practical applications of AI-assisted development and prompt engineering         |
-| Cryptography                    | Keen interest in developing secure and efficient cryptographic solutions                                                                           |
-| Programming                     | Enthusiastic about exploring new programming paradigms and technologies                                                                            |
-| Gaming                          | Avid gamer with a particular interest in game development and design                                                                               |
-| Data Structures & Algorithms    | Enjoy solving complex problems and optimizing algorithms                                                                                           |
-| Optimization                    | Passionate about optimizing code and algorithms for performance and efficiency                                                                     |
-| Open Source                     | Active contributor to open-source projects, especially in C++ and cryptography                                                                     |
-| Advanced Information Retrieval  | Proficient in using advanced search techniques to find and synthesize information from diverse sources                                             |
-| AI-Assisted Problem Solving     | Skilled in leveraging various AI models and tools to tackle complex challenges efficiently                                                         |
-| Symmetrical Lifestyle           | Believe in maintaining a healthy work-life balance to ensure productivity and well-being                                                           |
+| Engineering Novel Solutions     | Passionate about creating what hasn't been built before and solving problems others consider impossible through innovative system design and creative engineering approaches |
+| Cyber Security & Ethical Hacking | Driven by a fascination with exploring the boundaries of software systems, identifying security vulnerabilities, and engineering robust protection mechanisms that exceed industry standards |
+| Artificial Intelligence as an Engineering Accelerator | Leveraging AI as a force multiplier for engineering and problem-solving, using advanced models to enhance ideation, brainstorming, and solution development processes |
+| Cryptography & Security Architecture | Designing and implementing sophisticated cryptographic systems and security architectures that balance theoretical security principles with practical implementation considerations |
+| Low-Level Systems Programming | Mastering modern C++ and system-level programming to build high-performance, optimized solutions for complex computing challenges |
+| Game Development & Engine Architecture | Exploring game development as both a lifelong passion and a technical challenge, with particular focus on performance optimization and engine architecture |
+| Algorithmic Optimization | Finding elegant, efficient solutions to complex computational problems through innovative algorithm design and optimization techniques |
+| Open Source Innovation | Contributing to and creating open-source projects that advance the state of the art in cryptography, security, and software development |
+| Advanced Information Retrieval | Developing sophisticated techniques for finding, synthesizing, and applying information from diverse sources to solve complex engineering challenges |
+| System Architecture Design | Designing extensible, scalable software architectures that anticipate future requirements and adapt elegantly to changing needs |
+| Balanced Engineering Approach | Maintaining harmony between technical excellence, user experience, and business requirements through thoughtful engineering decisions |
 
 ## References
 
@@ -265,5 +291,5 @@ Available upon request.
 
 ---
 
-**Muhammad Ammar Khan**  
+**Muhammad Ammar Khan**
 A dedicated and skilled computer science professional committed to excellence and innovation.
