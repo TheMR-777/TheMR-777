@@ -101,11 +101,27 @@ My transition to industry was strategic and calculated:
   - Treated as a personal masterpiece, blending architecture, UI/UX, real-time data processing, and security
   - Widely recognized inside ACE for directly enabling a 200% productivity boost and setting a new benchmark for internal tools
 
+- **ERP Development (Full-Stack Evolution)**
+  - Progressed from UI/UX engineer to **dedicated full-time full-stack developer** leading ERP’s core modules  
+  - Spearheaded backend and frontend implementations along with key architectural decisions for the multi-tenant migration  
+  - Engineered foundational systems forming the backbone of daily operations for thousands of users  
+
+  **Systems Engineered:**  
+  - **Permissions & Rights Management:** Dynamic access control framework scalable across tenants and modules  
+  - **Users Management:** Complete lifecycle from user creation to role assignment and auditing  
+  - **Approvals Engine:** Highly generic, plug-and-play mechanism that integrates seamlessly into any module for approval/rejection workflows  
+  - **Audit Logging:** Granular monitoring of every system action with analysis dashboards for audit teams  
+  - **Dynamic Form Engine:** JSON-powered frontend form generation in TypeScript, automatically styled to application theme  
+  - **Notification Framework:** Multi-channel delivery (Email, In-App, Browser Push, WhatsApp, and more)  
+  - **Template Engine:** Centralized management of notification and localization templates, enabling customization at runtime  
+  - **Threshold Management:** Configurable thresholds deeply integrated into core modules  
+  - **Rules Management Framework:** A versatile rules system orchestrating permissions, approvals, notifications, escalations, and transaction restrictions under a unified logic engine  
+
 - **System Architecture & Design Leadership**
-  - Architected mission-critical systems from concept to implementation
+  - Architected mission-critical financial systems from concept to implementation
   - Designed the "ACE Password Vault" with bespoke multi-layered security architecture
   - Provided expert consultancy on security infrastructure and cryptographic implementations
-  - Led architectural transformation of ERP from single-company to multi-tenant solution
+  - Pioneered architectural transformation of enterprise systems into multi-tenant SaaS-ready platforms  
 
 - **UI/UX Innovation**
   - Revolutionized company's approach to interface design
@@ -127,7 +143,8 @@ My transition to industry was strategic and calculated:
 
 #### Quantifiable Achievements
 - **Flagship Impact:** The Employee Monitoring Suite—engineered solo—became a cornerstone of ACE operations, credited with a 200% productivity increase and recognized by executives as a model of in-house innovation
-- **Security Enhancement:** Reduced security vulnerabilities by implementing world-class protection mechanisms
+- **ERP Backbone:** Architected and coded critical ERP subsystems (rules engine, thresholds, notifications, approvals, audit logging) now relied upon by enterprise-wide operations  
+- **Security Enhancement:** Dramatically reduced vulnerabilities through multi-layered cryptography
 - **Scope Expansion:** Multiplied ERP project value by transforming single-company tool to multi-company platform
 - **Executive Recognition:** Received direct commendation from CTO for architectural innovations
 - **Efficiency Gains:** Reduced unauthorized breaks by 35% through intelligent monitoring system design
@@ -185,22 +202,24 @@ My transition to industry was strategic and calculated:
 **Role:** Architecture Consultant & UI/UX Engineer
 
 **Architectural Contributions:**
-- Transformed single-company solution to multi-tenant platform
-- Designed Entity-Attribute-Value (EAV) model for maximum flexibility
-- Implemented sophisticated approval workflow system
-- Created Primary Control Center with multi-level authorization
+- Transformed a single-company system into a **multi-tenant SaaS platform**  
+- Played dual role: designing intuitive UX while engineering critical backend services  
+- Led technical migration strategy ensuring scalability, extensibility, and maintainability  
 
-**Technical Innovations:**
-- Introduced GraphQL API layer for improved developer experience
-- Implemented Redis caching for performance optimization
-- Designed stored procedures for complex business logic
-- Built comprehensive admin tools with role-based access control
+**Key Modules Engineered:**
+- **Permissions & Rights Management** – fine-grained access system  
+- **User Lifecycle Management** – robust account handling and governance  
+- **Approvals Workflow Engine** – modular, reusable, multi-context approvals  
+- **Audit Logging** – action-level visibility with dashboards for compliance teams  
+- **Dynamic JSON Form Engine** – autogenerates UI forms from schema metadata  
+- **Notification System** – with template-center and delivery across Email, WhatsApp, Push, and In-App  
+- **Threshold & Rules Management** – configurable system governing approvals, restrictions, escalations, and notifications with extreme flexibility  
 
 **Strategic Impact:**
-- Expanded potential market from one company to entire enterprise groups
-- Reduced development complexity through standardized patterns
-- Established architectural blueprint for future modules
-- Created reusable components adopted across organization
+- Shifted ERP development from “application” to **enterprise-grade product**  
+- Enabled rapid addition of new modules via modular subsystem design  
+- Positioned ACE ERP as a scalable solution for enterprise groups, not just single-company usage  
+- Raised development efficiency by standardizing common business logic across modules  
 
 ### 3. Employee Monitoring Suite
 **Company:** ACE Money Transfer  
@@ -440,6 +459,12 @@ My transition to industry was strategic and calculated:
 - Supported research initiatives in Malaysia
 - Advanced understanding of quantum optics
 
+### International Opportunities
+- **CyberMACS Erasmus Mundus Joint Master (Reserved Seat, 2024):**  
+  Selected through a highly competitive process for CyberMACS — Erasmus Mundus Joint Master Program. The interview, intended for 15 minutes, extended to over an hour as the panel explored my technical expertise in-depth—an experience that reinforced my confidence in global academic dialogues.  
+  Despite being placed on the **reserved list initially**, I was later offered a **full tuition fee waiver and insurance coverage**. However, I made the most difficult decision of my academic life by declining, due to relocation and living costs exceeding feasibility at the time.  
+  This milestone remains a powerful symbol of international recognition and reflects my principle-driven approach of pursuing opportunities sustainably.
+
 ## Community Leadership & Impact
 
 ### International Cybersecurity Community
@@ -550,6 +575,7 @@ My transition to industry was strategic and calculated:
 7. **Open Source Innovator:** Creating tools that revolutionize workflows
 8. **AI Integration Expert:** Leveraging AI as engineering accelerator
 9. **Masterpiece Builder:** The Employee Monitoring Suite as a personal engineering achievement
+10. **ERP Systems Engineer:** Architect of foundational enterprise platforms integrating rules, thresholds, multi-channel notifications, and dynamic forms
 
 ## Professional References
 
