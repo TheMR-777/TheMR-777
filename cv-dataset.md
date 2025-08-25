@@ -414,13 +414,87 @@ My transition to industry was strategic and calculated:
 **Duration:** 2019-2023  
 **CGPA:** 3.73/4.0  
 
-**Advanced Coursework:**
-- **Algorithms & Theory:** Data Structures, Algorithm Analysis, Theory of Automata, Compiler Construction
-- **Software Engineering:** OOAD, Software Quality Assurance, Design Patterns, Agile Methodologies
-- **Systems:** Operating Systems, Computer Architecture, System Programming, Distributed Systems
-- **Security:** Network Security, Cryptography Fundamentals, Ethical Hacking Basics
-- **AI & Mathematics:** Artificial Intelligence, Linear Algebra, Probability & Statistics, Discrete Mathematics
-- **Databases:** DBMS, SQL Optimization, NoSQL Concepts, Data Warehousing
+**Basic Information**
+- Department: Information Technology
+- Program: BS Computer Science (Morning)
+- Session: 2019–2023
+- Name: Muhammad Ammar Khan
+- Father’s Name: Muhammad Shahzad Khan
+- Reg. No.: 2019-UJ-163
+- Roll No.: BSCS-F19-M-63
+
+**Courses (all semesters)**
+| Semester | Code    | Title                                     | CrHr | Marks | Grade |
+|----------|---------|-------------------------------------------|------|-------|-------|
+| 1        | CMP-100 | Introduction to Computing                 | 3    | 78    | B+    |
+| 1        | HM-150  | Islamic & Pak Studies                     | 3    | 80    | A-    |
+| 1        | NS-103  | Electricity & Magnetism                   | 3    | 88    | A     |
+| 1        | MA-101  | Calculus-I                                | 3    | 94    | A     |
+| 1        | CMP-140 | Programming Fundamentals                  | 3    | 91    | A     |
+| 1        | CMP-141 | Programming Fundamentals Lab              | 1    | 91    | A     |
+| 2        | CMP-120 | Digital Logic Design                      | 3    | 76    | B+    |
+| 2        | CMP-121 | Digital Logic Design Lab                  | 1    | 85    | A     |
+| 2        | NS-105  | Basic Electronics                         | 3    | 85    | A     |
+| 2        | MA-102  | Calculus-II                               | 3    | 97    | A     |
+| 2        | EN-101  | Writing Workshop                          | 3    | 82    | A-    |
+| 2        | CMP-244 | Object Oriented Programming               | 3    | 71    | B     |
+| 2        | CMP-245 | Object Oriented Programming Lab           | 1    | 85    | A     |
+| 3        | CMP-201 | Discrete Mathematics                      | 3    | 80    | A-    |
+| 3        | CS-211  | Theory of Automata & Formal Languages     | 3    | 84    | A-    |
+| 3        | CMP-290 | Software Engineering                      | 3    | 86    | A-    |
+| 3        | CMP-210 | Data Structure & Algorithms               | 3    | 93    | A     |
+| 3        | CMP-211 | Data Structure & Algorithms Lab           | 1    | 96    | A     |
+| 3        | SS-111  | Principle of Management                   | 3    | 87    | A     |
+| 4        | CMP-223 | Computer Org. & Assembly Language         | 3    | 78    | B+    |
+| 4        | CMP-224 | Computer Org. & Assembly Language Lab     | 1    | 77    | B+    |
+| 4        | CS-324  | Compiler Construction                     | 3    | 84    | A-    |
+| 4        | CS-312  | Analysis of Algorithms                    | 3    | 75    | B+    |
+| 4        | CMP-370 | Database Systems                          | 3    | 75    | B+    |
+| 4        | CMP-371 | Database Systems Lab                      | 1    | 85    | A     |
+| 4        | SS-471  | Research Methods                          | 3    | 85    | A     |
+| 5        | MA-120  | Probability & Statistics                  | 3    | 87    | A     |
+| 5        | SS-213  | Entrepreneurship                          | 3    | 90    | A     |
+| 5        | CMP-325 | Operating Systems                         | 3    | 91    | A-    |
+| 5        | CMP-330 | Computer Networks                         | 3    | 85    | A     |
+| 5        | CMP-331 | Computer Networks Lab                     | 1    | 95    | A     |
+| 5        | CS-442  | ASP.NET                                   | 3    | 85    | A     |
+| 6        | MA-310  | Linear Algebra                            | 3    | 80    | A-    |
+| 6        | EN-405  | Technical & Business Writing              | 3    | 80    | A-    |
+| 6        | CS-360  | Artificial Intelligence                   | 3    | 88    | A     |
+| 6        | HM-260  | Arabic Language                           | 3    | 83    | A-    |
+| 6        | CS-374  | Web Engineering                           | 3    | 75    | B+    |
+| 6        | CS-375  | Web Engineering Lab                       | 1    | 76    | B+    |
+| 7        | CS-370  | System Programming                        | 3    | 80    | A-    |
+| 7        | CMP-390 | Object Oriented Analysis & Design         | 3    | 73    | B     |
+| 7        | CS-372  | Software Project Management               | 3    | 82    | A-    |
+| 7        | CS-426  | Computer Architecture                     | 3    | 86    | A     |
+| 7        | HM-480  | Professional Ethics                       | 3    | 77    | B+    |
+| 7        | CS-497  | Capstone Project–I                        | 3    | 86    | A     |
+| 8        | CS-493  | Software Quality Assurance                | 3    | 70    | B     |
+| 8        | SS-464  | Introduction to Sociology                 | 3    | 82    | A-    |
+| 8        | EN-301  | Communication Skills                      | 3    | 90    | A     |
+| 8        | CS-431  | Network Security                          | 3    | 85    | A     |
+| 8        | CS-498  | Capstone Project–II                       | 3    | 85    | A     |
+
+**Semester summary**
+| Semester | Credit Hours | Semester GPA | CGPA after Sem |
+| -------- | ------------ | ------------ | -------------- |
+| 1        | 16           | 3.81         | 3.81           |
+| 2        | 17           | 3.65         | 3.73           |
+| 3        | 16           | 3.89         | 3.78           |
+| 4        | 17           | 3.54         | 3.72           |
+| 5        | 16           | 4.00         | 3.77           |
+| 6        | 16           | 3.66         | 3.75           |
+| 7        | 18           | 3.62         | 3.73           |
+| 8        | 15           | 3.74         | 3.73           |
+
+**Totals and project**
+- Total credit hours: 131
+- Total marks: 4900
+- Obtained marks: 4099
+- Percentage: 84%
+- Final CGPA: 3.73
+- Final year project: Costaz Desktop
 
 **Academic Leadership:**
 - Unofficial C++ teaching assistant (2nd semester onwards)
@@ -499,6 +573,13 @@ My transition to industry was strategic and calculated:
 - Flutter Development - The App Brewery (Udemy)
 - .NET Basic to Advanced - CodeWithMosh & Tim Corey
 - IELTS Academic - British Council (Band 7.5)
+  | IELTS Module | Bands |
+  | --- | --- |
+  | Listening | 8.5 |
+  | Reading | 7.0 |
+  | Writing | 7.0 |
+  | Speaking | 7.0 |
+  | **Overall** | **7.5** |
 
 ### Self-Directed Learning
 - Quantum Computing Fundamentals
@@ -529,29 +610,6 @@ My transition to industry was strategic and calculated:
 - **Knowledge Synthesizer:** Combining diverse fields for novel solutions
 - **Community Builder:** Creating and nurturing technical communities
 - **Continuous Learner:** Treating every challenge as growth opportunity
-
-## Future Aspirations
-
-### Short-Term Goals (1-2 Years)
-- Master cloud-native architectures and Kubernetes
-- Contribute to major open-source projects
-- Publish research in top-tier security conferences
-- Build AI-powered development tools
-- Obtain advanced cloud certifications
-
-### Medium-Term Goals (3-5 Years)
-- Lead architecture for large-scale distributed systems
-- Establish expertise in quantum computing applications
-- Create innovative security frameworks
-- Mentor next generation of engineers
-- Build products used by millions
-
-### Long-Term Vision (5+ Years)
-- Pioneer new computing paradigms
-- Solve previously unsolvable problems
-- Create lasting impact through innovation
-- Build world-class engineering teams
-- Contribute to technological advancement of Pakistan
 
 ## What Defines Me
 
