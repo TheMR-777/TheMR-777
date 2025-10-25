@@ -88,6 +88,28 @@ My transition to industry was strategic and calculated:
 4. **Iterative Excellence:** Continuously refining solutions based on feedback and new insights
 5. **Knowledge Synthesis:** Combining diverse technical domains to create novel solutions
 
+### Creative & Philosophical Mindset
+- **Questioning the Status Quo:** I don't accept "because that's how it's done" as an answer. I question existing implementations, challenge assumptions, and seek deeper understanding of why systems work the way they do.
+- **Simplicity as Sophistication:** I believe true mastery shows in making complex things simple, not simple things complex. I constantly seek to eliminate unnecessary complexity, reduce cognitive load, and find elegant paths through tangled problems.
+- **Optimization Instinct:** I naturally spot inefficiencies and improvement opportunities—whether in code, workflows, or system design. This isn't about premature optimization; it's about seeing where small changes yield disproportionate gains.
+- **Domain-Specific Solutions:** I resist one-size-fits-all approaches. Each problem deserves a solution tailored to its unique constraints, context, and requirements. I craft patterns and architectures specific to the domain rather than forcing generic templates.
+- **Philosophical Depth:** I think deeply about the "why" behind engineering decisions. My interests in physics, astronomy, and psychology inform how I approach software—understanding systems holistically, considering human factors, and building intuition rather than memorizing recipes.
+- **Continuous Betterment:** I'm driven by making things genuinely better, not just different. Whether it's a codebase, a team process, or a user interface, I seek meaningful improvements that create lasting value.
+
+### Engineering Craft & Coding Style
+- **Tool-Builder Mindset:** I love building tools that automate and elevate workflows—both CLI and GUI. I treat products as art pieces: aesthetics, ergonomics, and code quality receive equal care.
+- **Performance & Tradeoffs (Mentored by The Cherno):** I prioritize performance, speed, and attention to detail. I habitually surface multiple solutions and weigh pros/cons before choosing an approach.
+- **Refactoring-as-a-Discipline:** I practice “Do less, yield maximum.” I prefer no‑boilerplate, expressive code with strong invariants, aiming for near‑zero logical gaps. On-time delivery is my norm.
+- **C++ as a Superpower:** 4+ years of personal modern C++ practice sharpened my low‑level intuition. That discipline carries over into .NET and TypeScript design, memory/perf awareness, and API clarity.
+- **Micro‑Innovation Example:** Discovered a zero-branch Fibonacci sequence by seeding −1 and 1, eliminating conditional edge cases—illustrative of my habit to rethink fundamentals for simplicity.
+
+### Debugging & Reverse Engineering
+- **Legacy Recovery Expertise:** At ACE, I routinely diagnosed and corrected flawed legacy code and logic. This honed my reverse‑engineering skills, systematic isolation of defects, and production‑grade fixes.
+
+### Architecture & Design Patterns
+- **Context-First Patterns:** I learn and apply patterns with the problem in mind, often composing or tailoring patterns to the domain. I’ve used this approach across ERP, EMS, and the UWB Simulation.
+- **Security & Reliability:** Prefer open-source, battle-tested components where appropriate; when re‑implementing for learning or fit, I still enforce strong security and correctness guarantees.
+
 ## Professional Experience
 
 ### ACE Money Transfer
@@ -141,6 +163,15 @@ My transition to industry was strategic and calculated:
   - Enhanced partner API security with custom two-layer encryption
   - Established new security standards exceeding industry requirements
 
+- **External Integrations & Partnerships**
+  - Integrated Mastercard services; collaborated closely with their team and delivered robust, secure payment flows that were highly praised.
+  - Delivered bank partner integrations including HBL and PNB (India), engineering resilient adapters, retries, idempotency, and observability.
+  - Extensive experience consuming external services via well-typed client libraries, strict error handling, and SLA-aware timeouts.
+
+- **Realtime Communication & Eventing**
+  - Established SignalR infrastructure in ERP for the Notifications Manager and Template Engine, including connection lifecycle, delivery semantics, and scale considerations.
+  - Familiar with RPC concepts (contracts, streaming, backpressure); applied these principles within real-time, event-driven systems.
+
 #### Quantifiable Achievements
 - **Flagship Impact:** The Employee Monitoring Suite—engineered solo—became a cornerstone of ACE operations, credited with a 200% productivity increase and recognized by executives as a model of in-house innovation
 - **ERP Backbone:** Architected and coded critical ERP subsystems (rules engine, thresholds, notifications, approvals, audit logging) now relied upon by enterprise-wide operations  
@@ -152,8 +183,8 @@ My transition to industry was strategic and calculated:
 
 #### Technologies Mastered
 - **Languages:** C++ (advanced), C# 13, TypeScript, SQL
-- **Frameworks:** .NET 9, Blazor, AvaloniaUI, Angular 20
-- **Databases:** MySQL (EAV), SQL Server, Redis
+- **Frameworks:** .NET 9, Blazor, AvaloniaUI, Angular 20, SignalR, gRPC
+- **Databases:** PostgreSQL (preferred), MySQL (EAV), SQL Server, Redis
 - **Architecture:** Microservices, Event-Driven, Multi-tenant, PWA
 - **Security:** OpenSSL, Custom Cryptography, HMAC, JWT
 - **Tools:** GraphQL, Docker, Git, Azure DevOps
@@ -243,6 +274,7 @@ My transition to industry was strategic and calculated:
 - 35% reduction in unauthorized breaks
 - Executive-level recognition for design innovation
 - Established as company standard for monitoring solutions
+- Zero-defects at launch: deployed to production with no bugs reported
 
 ### 4. ACE Password Vault
 **Company:** ACE Money Transfer  
@@ -353,8 +385,8 @@ My transition to industry was strategic and calculated:
 |----------|-------------|
 | **.NET Ecosystem** | .NET 9, ASP.NET Core, Blazor, Entity Framework, SignalR |
 | **Frontend** | Angular 20, Flutter, AvaloniaUI, WPF, Qt C++ |
-| **Backend** | GraphQL, REST, SOAP, Microservices, Event-Driven |
-| **Databases** | MySQL, SQL Server, SQLite, Redis, MongoDB basics |
+| **Backend** | GraphQL, REST, SOAP, gRPC, Microservices, Event-Driven |
+| **Databases** | PostgreSQL (preferred), MySQL, SQL Server, SQLite, Redis, MongoDB basics |
 | **Cloud & DevOps** | Azure basics, Docker, Git, CI/CD, GitHub Actions |
 | **Security** | OpenSSL, JWT, OAuth2, HMAC, Custom Cryptography |
 | **AI/ML** | TensorFlow basics, Prompt Engineering, AI Integration |
@@ -603,6 +635,11 @@ My transition to industry was strategic and calculated:
 | **Quantum Computing** | Exploring quantum algorithms and simulation |
 | **Open Source** | Contributing to global knowledge pool |
 
+### Hobbies & Lifelong Curiosity
+- **Astronomy:** My second-largest passion after computing. I study the cosmos through expert voices (e.g., StarTalk weekly) to build intuition—not rote facts—about black holes, stellar evolution, the ingredients for life, and cosmic structure.
+- **Physics:** A late-blooming love that became a core lens. I build intuitive models via Vsauce, The Science Click, and minutephysics; I now reason clearly about electromagnetism, chip fabrication fundamentals, GPUs, and hardware architectures.
+- **Psychology:** Nurtured by my psychologist mother’s open conversations. I study cognitive biases, learning science, motivation, and social dynamics (e.g., Mind Field) to design humane products and lead better teams.
+
 ### Personal Attributes
 - **Self-Taught Problem Solver:** Learning independently since childhood
 - **Systems Thinker:** Seeing connections across diverse domains
@@ -635,6 +672,75 @@ My transition to industry was strategic and calculated:
 9. **Masterpiece Builder:** The Employee Monitoring Suite as a personal engineering achievement
 10. **ERP Systems Engineer:** Architect of foundational enterprise platforms integrating rules, thresholds, multi-channel notifications, and dynamic forms
 
+## Guidelines for AI-Assisted Document Generation
+
+### Purpose
+These instructions steer future AI/LLMs to craft highly personalized, human, and context-rich documents (CVs, resumes, SOPs, personal statements, cover letters, scholarship essays).
+
+### Non-Negotiable Emphases
+- **Engineering Identity:** Systems architect, security-first engineer, and tool-builder with a craft mindset.
+- **Creative & Philosophical Approach:** Questions status quo, seeks simplicity in complexity, spots optimization opportunities, crafts domain-specific solutions, thinks deeply about "why" behind decisions.
+- **Flagship Proofs:**
+  - Employee Monitoring Suite: 200% productivity; zero defects at launch; company-wide standard.
+  - ERP Transformation: Multi-tenant migration, reusable subsystems (rules, thresholds, notifications, approvals, audit).
+  - UWB Simulation: First-principles math + coding; end-to-end solo build; acclaimed accuracy.
+- **Performance/Craft:** The Cherno mentorship; explicit trade-off reasoning; refactoring and optimization discipline.
+- **Security & C++ Depth:** Modern C++ mastery informing .NET work; custom cryptography; OpenSSL integration; ACE Password Vault.
+- **Delivery Record:** On-time delivery history; near-zero logic gaps; do-less-yield-maximum philosophy.
+- **Integrations & Realtime:** Mastercard/HBL/PNB integrations; SignalR real-time infrastructure; RPC familiarity (gRPC concepts).
+
+### Audience-Tailored Priorities
+- **Admissions (Masters/PhD):**
+  - Curiosity and research potential (UWB Simulation, quantum/photonics collaboration).
+  - Interdisciplinary synthesis (C++/systems + math/physics + UI/UX).
+  - Creative/philosophical mindset: questions assumptions, seeks elegant simplicity, builds intuition over memorization.
+  - Academic excellence (CGPA 3.73, publications, international recognition CyberMACS reserved seat/offer).
+  - Ethical choice framing (declined offer due to financial feasibility; sustainability mindset).
+- **Scholarships:**
+  - Impact and leadership (international cybersecurity community, mentoring, open source).
+  - Resilience and self-driven growth (teenage security journey, mobile-to-mobile testing breakthrough).
+  - Philosophical depth and holistic thinking (astronomy, physics, psychology informing engineering).
+  - Societal value and scalability (ERP standardization, monitoring suite productivity impact).
+- **Prestige Job Opportunities:**
+  - Architecture, security, and performance track record (ERP, Password Vault, EMS).
+  - Creative problem-solver who questions existing solutions and finds optimization opportunities.
+  - External partner delivery and reliability (Mastercard, banks) with clear SLAs and observability.
+  - Debugging legacy code; reverse engineering; refactoring for maintainability; real-time systems.
+  - Core strengths: modern C++, .NET 9, TypeScript, GraphQL, gRPC/SignalR, PostgreSQL.
+
+### Structure & Voice Directives
+- **Voice:** First-person singular, confident yet humble; concrete, specific, and non-generic. Avoid buzzwords unless tied to a proof point.
+- **Narrative Pattern:** Problem → Options → Decision (trade-offs) → Action → Impact (numbers, outcomes).
+- **Lead with Impact:** Start with 1–2 signature wins tailored to the audience, then supporting depth.
+- **Quantify:** Always include metrics where available (200%, 35%, zero defects, timelines, scope).
+- **Evidence over Claims:** Reference systems and links where possible; name technologies and responsibilities.
+- **Brevity with Substance:** Short paragraphs, crisp bullets; no filler.
+
+### Content Blocks to Preferentially Surface
+- EMS zero-defects launch and 200% productivity.
+- ERP multi-tenant platform and reusable subsystems.
+- UWB Simulation’s first-principles math-to-software pipeline.
+- Password Vault’s multi-layer cryptography.
+- External integrations (Mastercard, HBL, PNB) and real-time SignalR infrastructure.
+- The Cherno’s influence on performance/coding style; C++ mastery informing .NET.
+
+### Style & Formatting
+- Use active verbs and measurable nouns. Prefer bullets for dense information.
+- Minimize adjectives; prioritize verifiable facts and artifacts.
+- If asked for a CV/Resume:
+  - One-page (job) or two-page (academic) by default; ATS-friendly; clear section headers.
+  - Highlight top 4–6 achievements with quantified impact.
+- If asked for SOP/Personal Statement:
+  - Open with a formative moment or flagship build; tie to target program.
+  - Show research fit and future goals; connect faculty/labs if known.
+- If asked for Scholarship Essay:
+  - Tie impact, leadership, need, and future societal benefit; include the CyberMACS decision context.
+
+### Constraints
+- Be truthful; no exaggeration. Prefer clarity over hype.
+- Keep the tone respectful and professional; avoid negative framing about prior organizations.
+- Ensure inclusivity and accessibility in language.
+
 ## Professional References
 
 Available upon request. Notable references include:
@@ -646,7 +752,7 @@ Available upon request. Notable references include:
 
 ---
 
-**Document Version:** 2.0  
+**Document Version:** 2.1.1 (2025-10-25)  
 **Purpose:** Comprehensive professional dataset for AI-assisted CV/resume generation  
 **Maintained By:** Muhammad Ammar Khan
 
