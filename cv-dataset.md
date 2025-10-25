@@ -428,6 +428,13 @@ My transition to industry was strategic and calculated:
 - Machine Learning Pipelines
 - AI as Force Multiplier
 
+**Vision for AI-Driven Society:**
+- I envision AI not as a tool for incremental productivity gains, but as the foundation for **societal transformation**—a future where AI handles all necessary work, freeing humanity to pursue passions, creativity, and voluntary contribution.
+- This aligns with the **open-source ethos**: people contribute voluntarily because they want to, not because they must to survive. I believe open source will ultimately prevail as the dominant model when survival is decoupled from labor.
+- I think deeply about **systemic problems**: not just technical challenges, but how humans exploit each other through economic necessity, how survival pressures create harmful hierarchies, and how AI can break these cycles.
+- My AI work is motivated by this **long-term vision**: building toward a world where technology eliminates coerced labor, where humans contribute out of passion rather than desperation, and where we can focus on solving humanity's self-inflicted challenges rather than perpetuating them.
+- I'm inspired by thinkers like Elon Musk who articulate similar visions, and I aim to contribute—however incrementally—to building systems that move us toward this future.
+
 #### Scientific Computing
 - Quantum Computing Simulation
 - Signal Processing (DSP)
@@ -707,6 +714,12 @@ These instructions steer future AI/LLMs to craft highly personalized, human, and
   - External partner delivery and reliability (Mastercard, banks) with clear SLAs and observability.
   - Debugging legacy code; reverse engineering; refactoring for maintainability; real-time systems.
   - Core strengths: modern C++, .NET 9, TypeScript, GraphQL, gRPC/SignalR, PostgreSQL.
+- **AI-Focused Roles & Research:**
+  - Vision for AI-driven societal transformation: eliminating coerced labor, enabling voluntary contribution model.
+  - Systemic thinking: understanding how AI can break exploitative economic cycles and harmful hierarchies.
+  - Open-source philosophy: believes open source will prevail when survival is decoupled from labor.
+  - Long-term orientation: building toward a future where humans pursue passions rather than survival work.
+  - Inspired by visionaries (Musk) but grounded in practical engineering contributions today.
 
 ### Structure & Voice Directives
 - **Voice:** First-person singular, confident yet humble; concrete, specific, and non-generic. Avoid buzzwords unless tied to a proof point.
@@ -752,7 +765,7 @@ Available upon request. Notable references include:
 
 ---
 
-**Document Version:** 2.1.1 (2025-10-25)  
+**Document Version:** 2.2 (2025-10-25)  
 **Purpose:** Comprehensive professional dataset for AI-assisted CV/resume generation  
 **Maintained By:** Muhammad Ammar Khan
 
