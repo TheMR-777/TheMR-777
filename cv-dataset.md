@@ -58,6 +58,7 @@ Over the course of a year, I:
 At the University of the Punjab, Jhelum Campus, I transformed from an enthusiast to a professional:
 - Achieved CGPA of 3.73/4.0 while going far beyond curriculum requirements
 - Became unofficial teaching assistant for C++ in my second semester
+- **Data Structures & Algorithms Mastery:** Before the formal course began, I spent an entire year self-studying and implementing every fundamental and advanced data structure (arrays, linked lists—single, double, XOR; BSTs, red-black trees) and algorithm (searching, sorting, graph traversal) in modern C++ using OOP principles, safe coding practices, and performance benchmarks—often outperforming reference implementations. All documented and preserved in GitHub.
 - Served as deputy class representative, managing online classes during COVID-19
 - Conducted specialized programming sessions for peers
 - Simultaneously completed final year project (Costaz) and two research papers
@@ -420,6 +421,14 @@ My transition to industry was strategic and calculated:
 - Lock-free Programming
 - Performance Optimization
 
+**Data Structures & Algorithms Implementation:**
+- Spent a full year before formal coursework mastering DSA through hands-on implementation in modern C++.
+- Implemented all fundamental and advanced structures: arrays, linked lists (single, double, XOR-linked), trees (BST, red-black, AVL), graphs, heaps, hash tables.
+- Coded classic algorithms: sorting (quicksort, mergesort, heapsort), searching (binary, interpolation), graph traversal (DFS, BFS, Dijkstra, A*).
+- Used object-oriented design, safe coding practices, RAII, and move semantics—elevating beyond procedural C implementations.
+- Benchmarked against reference implementations; often achieved superior performance through careful optimization.
+- Comprehensive documentation preserved in GitHub (MyUniversity repository); passion for documenting every learning artifact.
+
 #### AI & Innovation
 - Advanced Prompt Engineering
 - AI-Assisted Development
@@ -597,6 +606,7 @@ My transition to industry was strategic and calculated:
 - **AvaloniaUI:** Performance optimizations and bug fixes
 - **Flutter:** Architecture improvements and documentation
 - **fluent_ui:** UI enhancements and component development
+- **MyUniversity (GitHub):** Comprehensive repository documenting entire university journey—every data structure, algorithm, project, and learning artifact implemented in modern C++ with OOP principles, benchmarks, and extensive documentation
 
 ### Mentorship & Teaching
 - Conducted 50+ peer programming sessions
@@ -654,6 +664,7 @@ My transition to industry was strategic and calculated:
 - **Knowledge Synthesizer:** Combining diverse fields for novel solutions
 - **Community Builder:** Creating and nurturing technical communities
 - **Continuous Learner:** Treating every challenge as growth opportunity
+- **Obsessive Documenter:** Deep passion for documenting every learning journey; GitHub serves as a comprehensive knowledge repository of university work, implementations, and experiments—nothing learned goes undocumented
 
 ## What Defines Me
 
@@ -732,10 +743,12 @@ These instructions steer future AI/LLMs to craft highly personalized, human, and
 ### Content Blocks to Preferentially Surface
 - EMS zero-defects launch and 200% productivity.
 - ERP multi-tenant platform and reusable subsystems.
-- UWB Simulation’s first-principles math-to-software pipeline.
-- Password Vault’s multi-layer cryptography.
+- UWB Simulation's first-principles math-to-software pipeline.
+- Password Vault's multi-layer cryptography.
 - External integrations (Mastercard, HBL, PNB) and real-time SignalR infrastructure.
-- The Cherno’s influence on performance/coding style; C++ mastery informing .NET.
+- The Cherno's influence on performance/coding style; C++ mastery informing .NET.
+- DSA mastery: full-year self-study before coursework; modern C++ implementations outperforming references; comprehensive GitHub documentation.
+- Obsessive documentation habit: GitHub as knowledge repository (MyUniversity repo); everything learned is preserved and shared.
 
 ### Style & Formatting
 - Use active verbs and measurable nouns. Prefer bullets for dense information.
@@ -765,7 +778,7 @@ Available upon request. Notable references include:
 
 ---
 
-**Document Version:** 2.2 (2025-10-25)  
+**Document Version:** 2.3 (2025-10-27)  
 **Purpose:** Comprehensive professional dataset for AI-assisted CV/resume generation  
 **Maintained By:** Muhammad Ammar Khan
 
