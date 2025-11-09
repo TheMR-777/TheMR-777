@@ -24,6 +24,8 @@
 - **Email:** m.shahzad.ms72@gmail.com
 - **WhatsApp:** [+92 314 5401405](https://wa.me/923145401405)
 - **Null Byte (as H4ck3R_777):** [Profile](https://creator.wonderhowto.com/h4ck3r_777/)
+- **Link to this Dataset**: [cv-dataset.md](https://github.com/TheMR-777/TheMR-777/blob/main/cv-dataset.md)
+- **Link to a general CV**: [cv-study.md](https://github.com/TheMR-777/TheMR-777/blob/main/cv-study.md)
 
 ### Professional Taglines
 - Software Architect & Security Engineer
