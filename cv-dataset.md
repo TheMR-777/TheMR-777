@@ -186,7 +186,7 @@ My transition to industry was strategic and calculated:
 
 #### Technologies Mastered
 - **Languages:** C++ (advanced), C# 13, TypeScript, SQL
-- **Frameworks:** .NET 9, Blazor, AvaloniaUI, Angular 20, SignalR, gRPC
+- **Frameworks:** .NET 9, Blazor, AvaloniaUI, Angular 20 (PrimeNG), SignalR, gRPC
 - **Databases:** PostgreSQL (preferred), MySQL (EAV), SQL Server, Redis
 - **Architecture:** Microservices, Event-Driven, Multi-tenant, PWA
 - **Security:** OpenSSL, Custom Cryptography, HMAC, JWT
@@ -198,6 +198,7 @@ My transition to industry was strategic and calculated:
 **Location:** Jhelum, Pakistan
 
 #### Responsibilities & Projects
+- Developed frontend applications using Flutter and Firebase
 - Developed **Chirp:** Twitter-like social media application with real-time updates
 - Built **Sara Kuch:** E-commerce platform integrating Shopify REST API
 - Implemented responsive UI architectures for cross-device compatibility
@@ -241,6 +242,8 @@ My transition to industry was strategic and calculated:
 - Led technical migration strategy ensuring scalability, extensibility, and maintainability  
 
 **Key Modules Engineered:**
+- **Primary Control Center** – sophisticated multi-level approval workflow system
+- **Admin Tools** – user management, privilege controls, and role-based access
 - **Permissions & Rights Management** – fine-grained access system  
 - **User Lifecycle Management** – robust account handling and governance  
 - **Approvals Workflow Engine** – modular, reusable, multi-context approvals  
@@ -269,7 +272,7 @@ My transition to industry was strategic and calculated:
 **Design Excellence:**
 - Created intuitive dashboard with ApexCharts visualization
 - Implemented responsive Blazor UI with real-time updates
-- Designed efficient data pipeline using GraphQL
+- Designed efficient data pipeline using GraphQL and Micro-ORM
 - Built robust error handling and recovery mechanisms
 
 **Measurable Results:**
@@ -393,6 +396,7 @@ My transition to industry was strategic and calculated:
 | **Cloud & DevOps** | Azure basics, Docker, Git, CI/CD, GitHub Actions |
 | **Security** | OpenSSL, JWT, OAuth2, HMAC, Custom Cryptography |
 | **AI/ML** | TensorFlow basics, Prompt Engineering, AI Integration |
+| **Tools & Platforms** | Visual Studio, IntelliJ IDEA, VS Code, Jira, Google Colab, Linux |
 
 ### Specialized Skills
 
@@ -404,6 +408,11 @@ My transition to industry was strategic and calculated:
 - Multi-tenant Architecture
 - Scalable & SaaS-first Design
 - Entity-Attribute-Value (EAV) Model
+- Unit of Work & Repository Patterns
+- Data-Oriented Design
+- Aspect-Oriented Programming
+- Component-Based Architecture
+- Functional Programming & Monadic Patterns
 
 #### Security & Cryptography
 - Cryptographic System Design
@@ -438,6 +447,7 @@ My transition to industry was strategic and calculated:
 - Neural Network Basics
 - Machine Learning Pipelines
 - AI as Force Multiplier
+- **Models & Tools:** Claude, LLaMA, Command R+, Mixtral AI, GitHub Copilot, Google Gemini
 
 **Vision for AI-Driven Society:**
 - I envision AI not as a tool for incremental productivity gains, but as the foundation for **societal transformation**—a future where AI handles all necessary work, freeing humanity to pursue passions, creativity, and voluntary contribution.
@@ -454,6 +464,12 @@ My transition to industry was strategic and calculated:
 - Scientific Visualization
 - Numerical Methods
 - Data Analysis
+
+#### UI/UX Design
+- Material 3 & Fluent 2 Design Systems
+- Minimalist & User-Centric Design
+- Wireframing & Prototyping
+- Responsive UI Architecture
 
 ## Academic Achievements
 
@@ -560,11 +576,13 @@ My transition to industry was strategic and calculated:
 
 #### Peer-Reviewed Papers
 1. **"Identification of Paddy Disease Along Its Processing Time"**
+   - *Khan, S.N., Khan, S.U., Khan, M.A., Ansar, M.U., Shakeel, G.S., Ahmed, M., Zahid, N., & Ahmad, F.*
    - *Quantum Journal of Social Sciences and Humanities*, 4(3), 72-80
    - DOI: [10.55197/qjssh.v4i3.251](https://doi.org/10.55197/qjssh.v4i3.251)
    - Developed innovative image processing system for disease diagnosis
 
 2. **"Paddy Leaf Disease Symptoms Detection Through Artificial Neural Network"**
+   - *Khan, S.N., Khan, S.U., Ahmed, S., Khan, M.A., Khan, J.*
    - *Quantum Journal of Engineering, Science and Technology*, 4(4), 1-10
    - Link: [QJOEST Article](https://qjoest.com/index.php/qjoest/article/view/123/75)
    - Achieved high accuracy in symptom detection using ANN
