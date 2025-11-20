@@ -38,6 +38,9 @@
 - Pioneer in Mobile-to-Mobile Security Testing
 - Open Source Contributor & Community Leader
 
+### Career Objective
+Seeking challenging opportunities to architect and engineer innovative solutions at the forefront of technology. With expertise in modern C++, system architecture, cryptography, and AI-assisted development, I aim to create impactful software that breaks new ground. My goal is to leverage my diverse technical background in **Artificial Intelligence**, **Cyber Security**, **System Architecture**, and **Performance Engineering** to solve complex problems that others consider impossible, continuing my trajectory of delivering excellence through thoughtfully designed systems and creative problem-solving.
+
 ## Personal Journey & Philosophy
 
 ### The Genesis (Age 3-10)
@@ -187,10 +190,10 @@ My transition to industry was strategic and calculated:
 #### Technologies Mastered
 - **Languages:** C++ (advanced), C# 13, TypeScript, SQL
 - **Frameworks:** .NET 9, Blazor, AvaloniaUI, Angular 20 (PrimeNG), SignalR, gRPC
-- **Databases:** PostgreSQL (preferred), MySQL (EAV), SQL Server, Redis
+- **Databases:** PostgreSQL (preferred), MySQL (EAV), SQL Server, SQLite, Redis
 - **Architecture:** Microservices, Event-Driven, Multi-tenant, PWA
 - **Security:** OpenSSL, Custom Cryptography, HMAC, JWT
-- **Tools:** GraphQL, Docker, Git, Azure DevOps
+- **Tools:** GraphQL, Docker, Git, Azure DevOps, Google Cloud APIs
 
 ### TeqHolic
 **Position:** Flutter Development Intern  
@@ -256,7 +259,8 @@ My transition to industry was strategic and calculated:
 - Shifted ERP development from “application” to **enterprise-grade product**  
 - Enabled rapid addition of new modules via modular subsystem design  
 - Positioned ACE ERP as a scalable solution for enterprise groups, not just single-company usage  
-- Raised development efficiency by standardizing common business logic across modules  
+- Raised development efficiency by standardizing common business logic across modules
+- **PrimeNG Recommendation:** Widely adopted and praised by lead developer for elegance and efficiency  
 
 ### 3. Employee Monitoring Suite
 **Company:** ACE Money Transfer  
@@ -423,6 +427,16 @@ My transition to industry was strategic and calculated:
 - Mobile Security Engineering
 - Zero-Knowledge Protocols
 
+#### Cybersecurity Anecdotes & Achievements
+- **Vulnerability Discovery (ACE Money Transfer):**
+  - Identified a critical vulnerability in the HRMS (Laravel-based) that allowed unauthorized access to any employee profile, including executives. Responsibly disclosed and patched.
+  - Discovered a flaw in the internal ticketing system's file attachment handling, allowing unauthorized download of sensitive documents (financial reports, complaints). Reported to CTO and patched immediately.
+  - These experiences highlighted the fragility of "secure" systems and the need for security-by-design.
+- **CyberMACS Portal Vulnerability:**
+  - While applying to CyberMACS, identified PHP error messages exposing server paths and database details on their subscription page.
+  - Wrote a detailed, ethical disclosure email to the CyberMACS team, explaining the risks of Information Exposure and offering assistance.
+  - This demonstrates a proactive, ethical approach to security, even when acting as an applicant.
+
 #### C++ Mastery
 - Template Metaprogramming
 - SFINAE & Concepts
@@ -447,6 +461,7 @@ My transition to industry was strategic and calculated:
 - Neural Network Basics
 - Machine Learning Pipelines
 - AI as Force Multiplier
+- Advanced Google Search Operators
 - **Models & Tools:** Claude, LLaMA, Command R+, Mixtral AI, GitHub Copilot, Google Gemini
 
 **Vision for AI-Driven Society:**
@@ -455,6 +470,12 @@ My transition to industry was strategic and calculated:
 - I think deeply about **systemic problems**: not just technical challenges, but how humans exploit each other through economic necessity, how survival pressures create harmful hierarchies, and how AI can break these cycles.
 - My AI work is motivated by this **long-term vision**: building toward a world where technology eliminates coerced labor, where humans contribute out of passion rather than desperation, and where we can focus on solving humanity's self-inflicted challenges rather than perpetuating them.
 - I'm inspired by thinkers like Elon Musk who articulate similar visions, and I aim to contribute—however incrementally—to building systems that move us toward this future.
+
+#### AI Vision & Anecdotes
+- **"Level 2 to Level 4" Ambition:** I consider my current expertise to be at "Level 2"—capable of building robust, secure systems. My goal is to reach "Level 4" with the help of advanced education, where I can architect autonomous, intelligent agents that self-optimize and self-secure.
+- **The "Intelligent System" Vision:** Currently, we build hundreds of deterministic modules for ERP systems. I envision a future where an AI agent acts as the interface, understanding user needs and dynamically creating deterministic modules on the fly—bridging the gap between intelligent and deterministic workloads.
+- **AI "Thinking" Curiosity:** Since childhood, I've wondered how to make computers "think." This curiosity drove me to explore AI not just as a tool, but as a fundamental shift in computing.
+- **AI-Driven Monitoring Proposal:** At ACE, I proposed an AI-driven evolution of the Employee Monitoring Suite to automate worklogging and reduce human interference. While technical leadership validated the architecture, commercial pressures stalled implementation—fueling my desire to pursue this vision in a more research-oriented environment.
 
 #### Scientific Computing
 - Quantum Computing Simulation
@@ -668,9 +689,10 @@ My transition to industry was strategic and calculated:
 | **AI as Force Multiplier** | Leveraging AI to accelerate engineering and problem-solving |
 | **Cryptography Innovation** | Designing elegant cryptographic systems balancing theory and practice |
 | **Low-Level Programming** | Mastering system internals for maximum performance |
-| **Game Development** | Lifelong passion from age 3, focusing on engine architecture |
+| **Game Development** | Lifelong passion from age 3, focusing on engine architecture & performance |
 | **Quantum Computing** | Exploring quantum algorithms and simulation |
 | **Open Source** | Contributing to global knowledge pool |
+| **Advanced Information Retrieval** | Synthesizing information from diverse sources to solve complex challenges |
 
 ### Hobbies & Lifelong Curiosity
 - **Astronomy:** My second-largest passion after computing. I study the cosmos through expert voices (e.g., StarTalk weekly) to build intuition—not rote facts—about black holes, stellar evolution, the ingredients for life, and cosmic structure.
