@@ -1,5 +1,10 @@
 # Muhammad Ammar Khan - Comprehensive Professional Dataset
 
+- This file is my **canonical professional and personal dataset**: a dense, structured, high-signal representation of *who I am*, *how I think*, and *what outcomes I’ve produced*.  
+- It is designed primarily for **AI-assisted generation** of documents.
+- Each bullet is intentionally “compressed”: treat it as a **seed** that can be expanded into narrative using:
+  **Problem → Options → Decision/Tradeoffs → Action → Impact (metrics)**.
+
 ![Profile Banner](https://i.imgur.com/WiI2OZb.png)
 
 > A Lifelong Journey of Innovation, Engineering Excellence, and Breaking Boundaries
