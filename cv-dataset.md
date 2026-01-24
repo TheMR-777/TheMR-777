@@ -97,6 +97,21 @@ A huge credit goes to our Madam, who spent countless hours creating course mater
 
 **Pre-Course DSA Mastery:** Before the formal course began, I had already spent an entire year self-studying and implementing every fundamental and advanced data structure (arrays, linked lists—single, double, XOR; BSTs, red-black trees, AVL) and algorithm (searching, sorting, graph traversal) in modern C++ using OOP principles, safe coding practices, and performance benchmarks—often outperforming reference implementations. All documented and preserved in GitHub.
 
+**7. Analysis of Algorithms (CS-312) — Precision in Complexity**
+Taught by the same dedicated professor who crafted DSA, this course delivered high-level algorithmic concepts with meticulous precision. Time and space complexity analysis, recurrence relations, asymptotic bounds—all explained in utmost detail. It was remarkable that such advanced concepts were taught with such clarity and depth. I greatly admire my Ma'am for her dedication to making us truly understand algorithmic efficiency at its core.
+
+**8. Probability & Statistics (MA-120) — Conquering the "Impossible"**
+There was a common belief that this was the most difficult subject in the curriculum. I saw it as a challenge—and found it surprisingly natural and intuitive! While some concepts like exponential distributions initially seemed unintuitive, I developed a mental framework to grasp them, solving problems with great precision and success. The foundations built during this course still serve me today—I often find myself solving probability problems in real-world scenarios, thanks to the solid intuition and interest developed back then.
+
+**9. Linear Algebra (MA-310) — 3Blue1Brown's Gift**
+Incredibly lucky timing! I had already been watching 3Blue1Brown's *Essence of Linear Algebra* series out of pure curiosity before the course began. That series gave me the fundamentals, the tools, and a profound intuition to understand matrices—their true meaning, why we perform certain operations, what the numbers tell us before and after transformations. I connected these concepts to computer graphics, understood how GPUs leverage matrix operations for parallel computation, and saw how linear algebra underpins everything from game engines to machine learning. That's how far my curiosity took me! 🎯
+
+**10. Object Oriented Analysis & Design (CMP-390) — Mapping Mastery to Terminology**
+This course was fascinating—not because I learned new concepts, but because I finally mapped my existing skills and best practices to the formal terminology of Software Engineering. Thanks to TheCherno's influence, I was already a practicing Software Engineer and Architect in mindset. About 95% of the content was already ingrained in my approach—UML diagrams, design patterns, SOLID principles, architecture decisions. This course gave me the vocabulary to articulate what I already knew intuitively. It was gratifying to realize how far self-directed learning had taken me.
+
+**11. Introduction to Sociology (SS-464) — Where Psychology Meets Society**
+Our professor did a remarkable job developing genuine interest in the subject, teaching us how society functions as a collective organism. Since I already had deep interest in psychology (nurtured through Mind Field and countless YouTube explorations), I approached sociology with a unique lens: *"Sociology, if seen magnified, is psychology."* I dove into learning about societal cycles, studied historical examples like the French Revolution, and followed numerous channels to understand the interplay between individual psychology and collective behavior. This interdisciplinary curiosity later informed my approach to building user-centric systems, the design languages, and understanding team dynamics.
+
 ### The Professional Evolution (2023-Present)
 My transition to industry was strategic and calculated:
 - **TeqHolic Internship:** Gained industry experience in Flutter development
@@ -818,7 +833,7 @@ These instructions steer future AI/LLMs to craft highly personalized, human, and
 - Password Vault's multi-layer cryptography.
 - External integrations (Mastercard, HBL, PNB) and real-time SignalR infrastructure.
 - The Cherno's influence on performance/coding style; C++ mastery informing .NET (OOP era).
-- **Courses That Forged an Engineer:** Programming Fundamentals sparked C++ journey (Caleb Curry); OOP marked transition from learner to teacher (TheCherno era); Digital Logic Design built optimization instincts and shorthand problem-solving; Discrete Mathematics forged proof-oriented analytical reasoning; Theory of Automata became THE most beloved subject—State Machines, Regex, and language philosophy actively applied to real C++ algorithmic challenges; Data Structures & Algorithms amplified existing mastery with modern C++ OOP implementations, STL reading fluency, and DRY micro-optimization techniques.
+- **Courses That Forged an Engineer:** Programming Fundamentals (Caleb Curry); OOP (TheCherno); Digital Logic Design (optimization instincts); Discrete Mathematics (proofs/reasoning); Theory of Automata (State Machines/Regex); DSA (OOP/STL/Micro-optimizations); Analysis of Algorithms (deep complexity analysis); Probability & Statistics (conquered "impossible" subject); Linear Algebra (3Blue1Brown intuition/GPU understanding); OOAD (mapping existing skills to SE terminology); Sociology (Psychology synthesis/Design Language).
 - DSA pre-cursor mastery: full-year self-study before coursework; modern C++ implementations outperforming references; comprehensive GitHub documentation.
 - Obsessive documentation habit: GitHub as knowledge repository (MyUniversity repo); everything learned is preserved and shared.
 
