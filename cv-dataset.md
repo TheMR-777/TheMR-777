@@ -68,11 +68,34 @@ Over the course of a year, I:
 At the University of the Punjab, Jhelum Campus, I transformed from an enthusiast to a professional:
 - Achieved CGPA of 3.73/4.0 while going far beyond curriculum requirements
 - Became unofficial teaching assistant for C++ in my second semester
-- **Data Structures & Algorithms Mastery:** Before the formal course began, I spent an entire year self-studying and implementing every fundamental and advanced data structure (arrays, linked lists—single, double, XOR; BSTs, red-black trees) and algorithm (searching, sorting, graph traversal) in modern C++ using OOP principles, safe coding practices, and performance benchmarks—often outperforming reference implementations. All documented and preserved in GitHub.
 - Served as deputy class representative, managing online classes during COVID-19
 - Conducted specialized programming sessions for peers
 - Simultaneously completed final year project (Costaz) and two research papers
 - Collaborated with visiting PhD professor on quantum computing and photonics simulations
+
+#### Courses That Forged an Engineer
+
+These courses weren't just curriculum—they were transformational experiences that shaped my engineering identity:
+
+**1. Programming Fundamentals (CMP-140) — The Genesis of a C++ Journey**
+My first formal programming course in C++. Our professor did an exceptional job cultivating genuine interest and building deep low-level logical understanding from the ground up. I supplemented the coursework by following Caleb Curry's 10-hour YouTube tutorial, ensuring I was always ahead of the classroom—knowing everything in advance, building intuition before exposure. This course ignited a lifelong passion for C++ that continues beyond C++26. 🚀
+
+**2. Object Oriented Programming (CMP-244) — From Student to Teacher**
+By the time this course began, I was already fluent in OOP principles—including the rarely-understood concepts like Polymorphism, Aggregation, and Composition at a programmatic depth beyond typical curriculum. My confidence enabled me to conduct online classes alongside my professor and mentor my batch-mates through peer tutoring sessions. Some of those inspired classmates joined me in this programming journey. I was primarily following TheCherno's C++ series during this period, which shaped my performance-first mindset.
+
+**3. Digital Logic Design (CMP-120) — Foundational for Optimized Thinking**
+One of my absolute favorite subjects. I developed deep intuition for truth tables, logical minimizations, boolean algebra, and Karnaugh maps. This later proved invaluable for optimized programming and critical logical analysis. I mastered base-n number systems and their conversions, often devising my own shorthand techniques to arrive at results faster and more precisely than standard methods. This exemplifies my out-of-the-box thinking—approaching solutions in unconventional ways and finding the optimal path. Supplemented by Knowledge Gate, Gate Smashers, and Neso Academy YouTube channels for guidance.
+
+**4. Discrete Mathematics (CMP-201) — The Art of Reasoning**
+This is where I truly understood the art of reasoning, problem-solving, and finding solutions through the most unconventional paths. I mastered Direct and Indirect Proofs, Mathematical Induction, and developed a fascination for Graph Theory and traversals. Everything felt so challengingly awesome! This course shaped the analytical, proof-oriented thinking that underpins all my subsequent engineering work—I approach problems systematically, exploring edge cases, and reasoning through solutions with mathematical rigor.
+
+**5. Theory of Automata & Formal Languages (CS-211) — THE Most Beloved Subject**
+Ah, this one—THE most beloved and handy subject of mine! This is where I deeply understood and developed intuition for State Machines, their working, Grammar, Syntax, the gist of language itself—its true philosophical meaning, translations, transpilations, and solving actual problems with state machines. I considered it a handy tool and actively used it to solve real algorithmic challenges I was facing while practicing modern C++ and developing algorithms. I loved challenges—I used to solve one problem in countless possible ways, noting the pros and cons of each, and achieving the best possible results. It was always a blossoming moment when I'd nail the solution! And discovering new challenges was equally exciting—it was so fun! I also mastered Regex and their unintuitive dealings, later gaining a solid understanding of cross-conversions between regular expressions and state machines.
+
+**6. Data Structures & Algorithms (CMP-210) — Amplifying Existing Mastery**
+A huge credit goes to our Madam, who spent countless hours creating course material, ready-made algorithms, and pseudocode for literally everything—a true nerd in the best sense! Since I already had solid foundations from a year of self-study, I admired her dedication immensely. Surprisingly, everywhere on the internet—even paid Udemy courses—teach data structures in raw C with no structure, no code standards, everyone doing as they please. This compelled me to implement every data structure and algorithm in pure modern C++ with Object-Oriented design—the way it was meant to be written. As an enthusiast, I became quite fluent in reading and understanding the Standard Template Library implementations of Clang and MSVC. Initially confusing, I later understood the true DRY code techniques and micro-optimizations for peak performance—and applied similar strategies. This course amplified my existing skills and upgraded them to the extreme!
+
+**Pre-Course DSA Mastery:** Before the formal course began, I had already spent an entire year self-studying and implementing every fundamental and advanced data structure (arrays, linked lists—single, double, XOR; BSTs, red-black trees, AVL) and algorithm (searching, sorting, graph traversal) in modern C++ using OOP principles, safe coding practices, and performance benchmarks—often outperforming reference implementations. All documented and preserved in GitHub.
 
 ### The Professional Evolution (2023-Present)
 My transition to industry was strategic and calculated:
@@ -516,59 +539,60 @@ My transition to industry was strategic and calculated:
 - Roll No.: BSCS-F19-M-63
 
 **Courses (all semesters)**
-| Semester | Code    | Title                                     | CrHr | Marks | Grade |
-|----------|---------|-------------------------------------------|------|-------|-------|
-| 1        | CMP-100 | Introduction to Computing                 | 3    | 78    | B+    |
-| 1        | HM-150  | Islamic & Pak Studies                     | 3    | 80    | A-    |
-| 1        | NS-103  | Electricity & Magnetism                   | 3    | 88    | A     |
-| 1        | MA-101  | Calculus-I                                | 3    | 94    | A     |
-| 1        | CMP-140 | Programming Fundamentals                  | 3    | 91    | A     |
-| 1        | CMP-141 | Programming Fundamentals Lab              | 1    | 91    | A     |
-| 2        | CMP-120 | Digital Logic Design                      | 3    | 76    | B+    |
-| 2        | CMP-121 | Digital Logic Design Lab                  | 1    | 85    | A     |
-| 2        | NS-105  | Basic Electronics                         | 3    | 85    | A     |
-| 2        | MA-102  | Calculus-II                               | 3    | 97    | A     |
-| 2        | EN-101  | Writing Workshop                          | 3    | 82    | A-    |
-| 2        | CMP-244 | Object Oriented Programming               | 3    | 71    | B     |
-| 2        | CMP-245 | Object Oriented Programming Lab           | 1    | 85    | A     |
-| 3        | CMP-201 | Discrete Mathematics                      | 3    | 80    | A-    |
-| 3        | CS-211  | Theory of Automata & Formal Languages     | 3    | 84    | A-    |
-| 3        | CMP-290 | Software Engineering                      | 3    | 86    | A-    |
-| 3        | CMP-210 | Data Structure & Algorithms               | 3    | 93    | A     |
-| 3        | CMP-211 | Data Structure & Algorithms Lab           | 1    | 96    | A     |
-| 3        | SS-111  | Principle of Management                   | 3    | 87    | A     |
-| 4        | CMP-223 | Computer Org. & Assembly Language         | 3    | 78    | B+    |
-| 4        | CMP-224 | Computer Org. & Assembly Language Lab     | 1    | 77    | B+    |
-| 4        | CS-324  | Compiler Construction                     | 3    | 84    | A-    |
-| 4        | CS-312  | Analysis of Algorithms                    | 3    | 75    | B+    |
-| 4        | CMP-370 | Database Systems                          | 3    | 75    | B+    |
-| 4        | CMP-371 | Database Systems Lab                      | 1    | 85    | A     |
-| 4        | SS-471  | Research Methods                          | 3    | 85    | A     |
-| 5        | MA-120  | Probability & Statistics                  | 3    | 87    | A     |
-| 5        | SS-213  | Entrepreneurship                          | 3    | 90    | A     |
-| 5        | CMP-325 | Operating Systems                         | 3    | 91    | A-    |
-| 5        | CMP-330 | Computer Networks                         | 3    | 85    | A     |
-| 5        | CMP-331 | Computer Networks Lab                     | 1    | 95    | A     |
-| 5        | CS-442  | ASP.NET                                   | 3    | 85    | A     |
-| 6        | MA-310  | Linear Algebra                            | 3    | 80    | A-    |
-| 6        | EN-405  | Technical & Business Writing              | 3    | 80    | A-    |
-| 6        | CS-360  | Artificial Intelligence                   | 3    | 88    | A     |
-| 6        | HM-260  | Arabic Language                           | 3    | 83    | A-    |
-| 6        | CS-374  | Web Engineering                           | 3    | 75    | B+    |
-| 6        | CS-375  | Web Engineering Lab                       | 1    | 76    | B+    |
-| 7        | CS-370  | System Programming                        | 3    | 80    | A-    |
-| 7        | CMP-390 | Object Oriented Analysis & Design         | 3    | 73    | B     |
-| 7        | CS-372  | Software Project Management               | 3    | 82    | A-    |
-| 7        | CS-426  | Computer Architecture                     | 3    | 86    | A     |
-| 7        | HM-480  | Professional Ethics                       | 3    | 77    | B+    |
-| 7        | CS-497  | Capstone Project–I                        | 3    | 86    | A     |
-| 8        | CS-493  | Software Quality Assurance                | 3    | 70    | B     |
-| 8        | SS-464  | Introduction to Sociology                 | 3    | 82    | A-    |
-| 8        | EN-301  | Communication Skills                      | 3    | 90    | A     |
-| 8        | CS-431  | Network Security                          | 3    | 85    | A     |
-| 8        | CS-498  | Capstone Project–II                       | 3    | 85    | A     |
+| Semester | Code | Title | CrHr | Marks | Grade |
+|----------|------|:-----:|------|-------|-------|
+| 1 | CMP-100 | Introduction to Computing | 3 | 78 | B+ |
+| 1 | HM-150  | Islamic & Pak Studies | 3 | 80 | A- |
+| 1 | NS-103  | Electricity & Magnetism | 3 | 88 | A  |
+| 1 | MA-101  | Calculus-I | 3 | 94 | A  |
+| 1 | CMP-140 | Programming Fundamentals | 3 | 91 | A  |
+| 1 | CMP-141 | Programming Fundamentals Lab | 1 | 91 | A  |
+| 2 | CMP-120 | Digital Logic Design | 3 | 76 | B+ |
+| 2 | CMP-121 | Digital Logic Design Lab | 1 | 85 | A  |
+| 2 | NS-105  | Basic Electronics | 3 | 85 | A  |
+| 2 | MA-102  | Calculus-II | 3 | 97 | A  |
+| 2 | EN-101  | Writing Workshop | 3 | 82 | A- |
+| 2 | CMP-244 | Object Oriented Programming | 3 | 71 | B  |
+| 2 | CMP-245 | Object Oriented Programming Lab | 1 | 85 | A  |
+| 3 | CMP-201 | Discrete Mathematics | 3 | 80 | A- |
+| 3 | CS-211  | Theory of Automata & Formal Languages | 3 | 84 | A- |
+| 3 | CMP-290 | Software Engineering | 3 | 86 | A- |
+| 3 | CMP-210 | Data Structure & Algorithms | 3 | 93 | A  |
+| 3 | CMP-211 | Data Structure & Algorithms Lab | 1 | 96 | A  |
+| 3 | SS-111  | Principle of Management | 3 | 87 | A  |
+| 4 | CMP-223 | Computer Org. & Assembly Language | 3 | 78 | B+ |
+| 4 | CMP-224 | Computer Org. & Assembly Language Lab | 1 | 77 | B+ |
+| 4 | CS-324  | Compiler Construction | 3 | 84 | A- |
+| 4 | CS-312  | Analysis of Algorithms | 3 | 75 | B+ |
+| 4 | CMP-370 | Database Systems | 3 | 75 | B+ |
+| 4 | CMP-371 | Database Systems Lab | 1 | 85 | A  |
+| 4 | SS-471  | Research Methods | 3 | 85 | A  |
+| 5 | MA-120  | Probability & Statistics | 3 | 87 | A  |
+| 5 | SS-213  | Entrepreneurship | 3 | 90 | A  |
+| 5 | CMP-325 | Operating Systems | 3 | 91 | A- |
+| 5 | CMP-330 | Computer Networks | 3 | 85 | A  |
+| 5 | CMP-331 | Computer Networks Lab | 1 | 95 | A  |
+| 5 | CS-442  | ASP.NET | 3 | 85 | A  |
+| 6 | MA-310  | Linear Algebra | 3 | 80 | A- |
+| 6 | EN-405  | Technical & Business Writing | 3 | 80 | A- |
+| 6 | CS-360  | Artificial Intelligence | 3 | 88 | A  |
+| 6 | HM-260  | Arabic Language | 3 | 83 | A- |
+| 6 | CS-374  | Web Engineering | 3 | 75 | B+ |
+| 6 | CS-375  | Web Engineering Lab | 1 | 76 | B+ |
+| 7 | CS-370  | System Programming | 3 | 80 | A- |
+| 7 | CMP-390 | Object Oriented Analysis & Design | 3 | 73 | B  |
+| 7 | CS-372  | Software Project Management | 3 | 82 | A- |
+| 7 | CS-426  | Computer Architecture | 3 | 86 | A  |
+| 7 | HM-480  | Professional Ethics | 3 | 77 | B+ |
+| 7 | CS-497  | Capstone Project–I | 3 | 86 | A  |
+| 8 | CS-493  | Software Quality Assurance | 3 | 70 | B  |
+| 8 | SS-464  | Introduction to Sociology | 3 | 82 | A- |
+| 8 | EN-301  | Communication Skills | 3 | 90 | A  |
+| 8 | CS-431  | Network Security | 3 | 85 | A  |
+| 8 | CS-498  | Capstone Project–II | 3 | 85 | A  |
 
 **Semester summary**
+
 | Semester | Credit Hours | Semester GPA | CGPA after Sem |
 | -------- | ------------ | ------------ | -------------- |
 | 1        | 16           | 3.81         | 3.81           |
@@ -793,8 +817,9 @@ These instructions steer future AI/LLMs to craft highly personalized, human, and
 - UWB Simulation's first-principles math-to-software pipeline.
 - Password Vault's multi-layer cryptography.
 - External integrations (Mastercard, HBL, PNB) and real-time SignalR infrastructure.
-- The Cherno's influence on performance/coding style; C++ mastery informing .NET.
-- DSA mastery: full-year self-study before coursework; modern C++ implementations outperforming references; comprehensive GitHub documentation.
+- The Cherno's influence on performance/coding style; C++ mastery informing .NET (OOP era).
+- **Courses That Forged an Engineer:** Programming Fundamentals sparked C++ journey (Caleb Curry); OOP marked transition from learner to teacher (TheCherno era); Digital Logic Design built optimization instincts and shorthand problem-solving; Discrete Mathematics forged proof-oriented analytical reasoning; Theory of Automata became THE most beloved subject—State Machines, Regex, and language philosophy actively applied to real C++ algorithmic challenges; Data Structures & Algorithms amplified existing mastery with modern C++ OOP implementations, STL reading fluency, and DRY micro-optimization techniques.
+- DSA pre-cursor mastery: full-year self-study before coursework; modern C++ implementations outperforming references; comprehensive GitHub documentation.
 - Obsessive documentation habit: GitHub as knowledge repository (MyUniversity repo); everything learned is preserved and shared.
 
 ### Style & Formatting
