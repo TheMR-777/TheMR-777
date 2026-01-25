@@ -148,34 +148,28 @@ My transition to industry was strategic and calculated:
   - Treated as a personal masterpiece, blending architecture, UI/UX, real-time data processing, and security
   - Widely recognized inside ACE for directly enabling a 200% productivity boost and setting a new benchmark for internal tools
 
-- **ERP Development (Full-Stack Evolution)**
-  - Progressed from UI/UX engineer to **dedicated full-time full-stack developer** leading ERP's core modules  
-  - Spearheaded backend and frontend implementations along with key architectural decisions for the multi-tenant migration  
-  - Engineered foundational systems forming the backbone of daily operations for thousands of users
-  - **Primary development phase concluded December 31, 2025**—marking the end of a long journey of constant engineering
+- **ERP Platform Engineering (Full-Stack | 2023–Dec 31, 2025)**
+  - Progressed from UI/UX to leading core platform modules and multi-tenant migration decisions.
+  - Focus: reusable primitives that power every business module (approvals, rights, rules, audit, notifications, dynamic forms).
 
-  **Core Systems Engineered:**  
-  - **Permissions & Rights Management:** Dynamic access control framework scalable across tenants and modules  
-  - **Users Management:** Complete lifecycle from user creation to role assignment and auditing  
-  - **Approvals Engine:** Highly generic, plug-and-play mechanism that integrates seamlessly into any module for approval/rejection workflows  
-  - **Audit Logging:** Granular monitoring of every system action with analysis dashboards for audit teams  
-  - **Dynamic Form Engine:** JSON-powered frontend form generation in TypeScript, automatically styled to application theme  
-  - **Notification Framework:** Multi-channel delivery (Email, In-App, Browser Push, WhatsApp, and more)  
-  - **Template Engine:** Centralized management of notification and localization templates, enabling customization at runtime  
-  - **Threshold Management:** Configurable thresholds deeply integrated into core modules  
-  - **Rules Management Framework:** A versatile rules system orchestrating permissions, approvals, notifications, escalations, and transaction restrictions under a unified logic engine
-  - **Command Palette:** Rights-compliant, fuzzy-search-enabled navigation system with score-based sorting algorithms—matching industry-standard implementations (Spotlight, VS Code, etc.)
+  **Core Platform Modules (My Primary Ownership):**
+  - **Composable Permissions & Rights Management:** tenant-aware, module-agnostic access control designed for easy integration.
+  - **Approvals Orchestration Engine:** generic plug-in workflow layer (approve/reject/escalate) usable by any module.
+  - **Rules + Thresholds Framework:** centralized policy engine driving approvals, restrictions, escalations, and notifications.
+  - **Audit Logging + Dashboards:** action-level traceability for compliance and investigations.
+  - **Notifications + Template Center:** multi-channel delivery (Email/In-App/Push/WhatsApp, etc.) with runtime-managed templates/localization.
+  - **Dynamic JSON Form Engine (TypeScript):** schema-driven UI generation, theme-compliant, reusable across modules.
+  - **Command Palette:** rights-compliant navigation with fuzzy search + score-based ranking (VS Code/Spotlight-style UX).
+  - **Documents Management:** blob storage + AWS time-bound links + fallback handling; extremely reusable with minimal API.
 
-  **Grand Modules (Tightly Integrated Series):**
-  - **Project Management:** Multi-company, multi-department, multi-team-member support with precision control from highest to lowest organizational levels. Foundation for Budget and Procurement modules.
-  - **Budget Management:** Integrated with Transactions Manager and Vouchers. Features Budget Templates (generic or project-scoped allocation schemes across companies/departments/cost centers/accounts), engineered distribution algorithms, data validation, and multi-currency live conversion algorithms.
-  - **Procurement Management (Odoo-inspired, enhanced):** End-to-end procurement lifecycle:
-    - *Purchase Request Creation:* Employee-facing module for asset requests (recurring/one-off, tangible/intangible), with custom-built Documents Management system (blob + AWS time-bound links)
-    - *RFQ & PO Generation:* Customizable email generation to vendors, PDF attachments, multi-RFQ negotiation per PR, vendor service matching
-    - *Inspection Level 1:* Gate inspection module generating Inward Gate Pass (IGP) with goods verification
-    - *Inspection Level 2:* Detailed goods inspection with Issuance Note generation upon confirmation
-    - *Intake Verification:* Requester acknowledgment completing the audit trail
-  - **Unified Dynamic Forms Architecture:** Non-redundant engineering supporting PR/RFQ/PO with shared server logic, multiple data sources, view modes, and procurement modes  
+    **Business Modules Shipped:**
+  - **Project Management:** multi-company/department/team structure; foundation for downstream modules.
+  - **Budget Management:** templates + allocation/validation + multi-currency conversion and presentation.
+  - **Procurement (Odoo-inspired):** PR → RFQ/PO → 2-level inspection → issuance/intake verification, with full audit trail.
+  - **Liquidity & Cash Positioning (Treasury-facing):**
+    - **Liquidity Dashboard:** deeply integrated with Transactions Management + real-time voucher generation (credit/debit flows).
+    - **Cash Positions + Settings:** configurable presentation of cash across accounts/COA levels; native-currency view + optional unified currency (e.g., USD).
+    - **Forecasting:** weighted linear regression to project liquidity/cash positions (up to ~7 years where historical depth supports it).
 
 - **System Architecture & Design Leadership**
   - Architected mission-critical financial systems from concept to implementation
@@ -268,104 +262,19 @@ My transition to industry was strategic and calculated:
 
 ### 2. Enterprise Resource Planning (ERP) System
 **Company:** ACE Money Transfer  
-**Duration:** 2023 – December 31, 2025  
-**Role:** Full-Stack Developer, Architecture Consultant & UI/UX Engineer
+**Duration:** 2023 – Dec 31, 2025  
+**Role:** Full-Stack Developer & Architecture Consultant
 
-**Architectural Contributions:**
-- Transformed a single-company system into a **multi-tenant SaaS platform**  
-- Played dual role: designing intuitive UX while engineering critical backend services  
-- Led technical migration strategy ensuring scalability, extensibility, and maintainability  
+Built and standardized ERP as a multi-tenant platform by engineering reusable core subsystems (not one-off module logic).
 
-**Core Modules Engineered:**
-- **Primary Control Center** – sophisticated multi-level approval workflow system
-- **Admin Tools** – user management, privilege controls, and role-based access
-- **Permissions & Rights Management** – fine-grained access system  
-- **User Lifecycle Management** – robust account handling and governance  
-- **Approvals Workflow Engine** – modular, reusable, multi-context approvals  
-- **Audit Logging** – action-level visibility with dashboards for compliance teams  
-- **Dynamic JSON Form Engine** – autogenerates UI forms from schema metadata  
-- **Notification System** – with template-center and delivery across Email, WhatsApp, Push, and In-App  
-- **Threshold & Rules Management** – configurable system governing approvals, restrictions, escalations, and notifications with extreme flexibility  
-
-**Grand Modules (Tightly Integrated, Multi-Tenant by Design):**
-
-*The following modules form an interconnected series—each building upon the previous, with Project Management serving as the foundation:*
-
-**Project Management**
-- Multi-company, multi-department, multi-team-member support at once
-- Precision control from the highest organizational level to the lowest
-- Foundation module upon which Budget Management and Procurement Management are built
-- Complete project lifecycle tracking with cross-organizational visibility
-
-**Budget Management (Branch #1 of Project Management)**
-- Tight integration with Transactions Manager, Vouchers, and financial modules
-- **Budget Templates:** Allow admins to create generic or project-scoped templates for different allocation schemes across companies, departments, cost centers, and actual accounts
-- **Budget Distribution Algorithms:** Highly engineered algorithms for precise budget allocation
-- **Data Validation Algorithms:** Comprehensive validation ensuring budget integrity
-- **Multi-Currency Management:** Precise live conversion algorithms supporting multiple currencies with real-time exchange rates
-- A true marvel of engineering combining financial precision with user-friendly interfaces
-
-**Procurement Management (Branch #2 of Project Management)**
-*Vastly inspired by Odoo but significantly enhanced. Tasked to thoroughly review Odoo's functionality and implement superior solutions.*
-
-1. **Purchase Request Creation**
-   - Employee-facing module for requesting assets
-   - Supports recurring and one-off requests, tangible and intangible assets
-   - **Custom Documents Management System:** Built from scratch, supporting blob storage + AWS time-bound links with seamless fallback—an engineered module in its own right
-   - User-friendly document views with multiple attachment types
-
-2. **RFQ (Request for Quotation) & PO (Purchase Order) Generation**
-   - Review purchase requests, items, attached documents
-   - **Curated Email Generation:** Highly customizable, curated RFQ emails to vendors
-   - **PDF Attachment System:** Dynamic, customizable PDF generation for formal documentation
-   - **Vendor Service Matching:** Engineered mechanism matching vendors to their offered services
-   - **Multi-RFQ per PR:** Generate as many RFQs as needed under a single Purchase Request—acting as negotiation rounds with vendors
-   - **Purchase Order Generation:** Create actual POs from settled RFQ deals with similar email/document mechanisms
-
-3. **Inspection Level 1 (Gate Inspection)**
-   - For inspection officers at goods arrival
-   - Multiple inspection modes with document attachment support
-   - **Inward Gate Pass (IGP) Generation:** Verifies goods match request (correct items, quantities) without breaking seals
-   - Rejection handling with proper workflow routing
-
-4. **Inspection Level 2 (Detailed Goods Inspection)**
-   - Full goods inspection for quality and specification compliance
-   - Upon confirmation: **Issuance Note Generation** to corresponding requester
-   - Completes the procurement flow with full digital audit trail
-
-5. **Intake Verification**
-   - Controlled by the original purchase requester
-   - Acknowledgment that goods received meet expectations
-   - Final step completing the end-to-end audit trail
-
-**Audit Trail & Compliance:**
-- Audit and accounts teams can view complete trails: RFQs, PRs, POs, inspection records, document history
-- Full visibility into every step of the procurement lifecycle
-- Designed for regulatory compliance and financial auditing
-
-**Unified Dynamic Forms Architecture (Engineering Achievement):**
-Since PR, RFQ, and PO interfaces share similar frontend and backend patterns, I engineered a **highly non-redundant approach**:
-- Unified Dynamic Forms with shared server logic
-- Multiple Data Sources support
-- Multiple View Modes (create, edit, view, approve)
-- Multiple Procurement Modes (PR, RFQ, PO)
-- Dramatic reduction in code duplication while maintaining flexibility
-
-**Command Palette (Personal Initiative & Engineering Achievement):**
-- Took initiative to develop an industry-standard command palette for ERP navigation
-- **Rights-Compliant:** Only shows options the user has access to
-- **Fuzzy Search:** Intelligent matching for quick navigation
-- **Score-Based Sorting:** Engineered algorithms prioritizing relevance
-- **Theme-Compliant Design:** Seamlessly integrates with application theme
-- Dramatically improved UX by enabling navigation with minimal interactions
-- Comparable to Spotlight (macOS), VS Code Command Palette, and similar industry implementations
-
-**Strategic Impact:**
-- Shifted ERP development from “application” to **enterprise-grade product**  
-- Enabled rapid addition of new modules via modular subsystem design  
-- Positioned ACE ERP as a scalable solution for enterprise groups, not just single-company usage  
-- Raised development efficiency by standardizing common business logic across modules
-- **PrimeNG Recommendation:** Widely adopted and praised by lead developer for elegance and efficiency  
+**Primary Platform Ownership:**
+- Composable **Permissions/Rights** (tenant-aware, integratable)
+- Generic **Approvals Orchestration** engine
+- Central **Rules + Thresholds** framework (approvals/restrictions/escalations/notifications)
+- **Audit logging** with dashboards
+- **Notifications + Template Center** (multi-channel)
+- **Dynamic JSON Form Engine** (schema-driven, theme-compliant)
+- Rights-compliant **Command Palette** (fuzzy search + scoring)
 
 ### 3. Employee Monitoring Suite
 **Company:** ACE Money Transfer  
