@@ -75,43 +75,19 @@ At the University of the Punjab, Jhelum Campus, I transformed from an enthusiast
 
 #### Courses That Forged an Engineer
 
-These courses weren't just curriculum—they were transformational experiences that shaped my engineering identity:
+- **Programming Fundamentals (CMP-140):** Started my C++-first mindset; stayed ahead via Caleb Curry; built strong low-level logic + debugging habits.
+- **Object Oriented Programming (CMP-244):** Deepened OOP practice (composition/polymorphism); mentored peers; adopted performance-oriented coding discipline (TheCherno).
+- **Digital Logic Design (CMP-120):** Boolean minimization/K-maps/base-n fluency → sharpened optimization instincts and “reduce complexity” thinking.
+- **Discrete Mathematics (CMP-201):** Proof techniques + graph theory → systematic reasoning, edge-case discipline, and correctness-first problem solving.
+- **Theory of Automata & Formal Languages (CS-211):** State machines/grammars/regex intuition → reusable mental model for workflows, parsers, and rule-driven systems.
+- **Data Structures & Algorithms (CMP-210):** Implemented DS/algos in modern C++ (OOP + STL-level understanding); learned micro-optimizations and DRY patterns from real code.
+- **Analysis of Algorithms (CS-312):** Complexity analysis/recurrences/asymptotics → performance tradeoffs with precision.
+- **Probability & Statistics (MA-120):** Built practical intuition for distributions and uncertainty; applied it later in real engineering decisions.
+- **Linear Algebra (MA-310):** 3Blue1Brown-based intuition → connected matrices to graphics/GPU parallelism and ML foundations.
+- **Object Oriented Analysis & Design (CMP-390):** Mapped prior practice to formal SE vocabulary (UML/SOLID/patterns) for clearer communication.
+- **Introduction to Sociology (SS-464):** “Society as scaled psychology” lens → improved user-centric design thinking and team dynamics awareness.
 
-**1. Programming Fundamentals (CMP-140) — The Genesis of a C++ Journey**
-My first formal programming course in C++. Our professor did an exceptional job cultivating genuine interest and building deep low-level logical understanding from the ground up. I supplemented the coursework by following Caleb Curry's 10-hour YouTube tutorial, ensuring I was always ahead of the classroom—knowing everything in advance, building intuition before exposure. This course ignited a lifelong passion for C++ that continues beyond C++26. 🚀
-
-**2. Object Oriented Programming (CMP-244) — From Student to Teacher**
-By the time this course began, I was already fluent in OOP principles—including the rarely-understood concepts like Polymorphism, Aggregation, and Composition at a programmatic depth beyond typical curriculum. My confidence enabled me to conduct online classes alongside my professor and mentor my batch-mates through peer tutoring sessions. Some of those inspired classmates joined me in this programming journey. I was primarily following TheCherno's C++ series during this period, which shaped my performance-first mindset.
-
-**3. Digital Logic Design (CMP-120) — Foundational for Optimized Thinking**
-One of my absolute favorite subjects. I developed deep intuition for truth tables, logical minimizations, boolean algebra, and Karnaugh maps. This later proved invaluable for optimized programming and critical logical analysis. I mastered base-n number systems and their conversions, often devising my own shorthand techniques to arrive at results faster and more precisely than standard methods. This exemplifies my out-of-the-box thinking—approaching solutions in unconventional ways and finding the optimal path. Supplemented by Knowledge Gate, Gate Smashers, and Neso Academy YouTube channels for guidance.
-
-**4. Discrete Mathematics (CMP-201) — The Art of Reasoning**
-This is where I truly understood the art of reasoning, problem-solving, and finding solutions through the most unconventional paths. I mastered Direct and Indirect Proofs, Mathematical Induction, and developed a fascination for Graph Theory and traversals. Everything felt so challengingly awesome! This course shaped the analytical, proof-oriented thinking that underpins all my subsequent engineering work—I approach problems systematically, exploring edge cases, and reasoning through solutions with mathematical rigor.
-
-**5. Theory of Automata & Formal Languages (CS-211) — THE Most Beloved Subject**
-Ah, this one—THE most beloved and handy subject of mine! This is where I deeply understood and developed intuition for State Machines, their working, Grammar, Syntax, the gist of language itself—its true philosophical meaning, translations, transpilations, and solving actual problems with state machines. I considered it a handy tool and actively used it to solve real algorithmic challenges I was facing while practicing modern C++ and developing algorithms. I loved challenges—I used to solve one problem in countless possible ways, noting the pros and cons of each, and achieving the best possible results. It was always a blossoming moment when I'd nail the solution! And discovering new challenges was equally exciting—it was so fun! I also mastered Regex and their unintuitive dealings, later gaining a solid understanding of cross-conversions between regular expressions and state machines.
-
-**6. Data Structures & Algorithms (CMP-210) — Amplifying Existing Mastery**
-A huge credit goes to our Madam, who spent countless hours creating course material, ready-made algorithms, and pseudocode for literally everything—a true nerd in the best sense! Since I already had solid foundations from a year of self-study, I admired her dedication immensely. Surprisingly, everywhere on the internet—even paid Udemy courses—teach data structures in raw C with no structure, no code standards, everyone doing as they please. This compelled me to implement every data structure and algorithm in pure modern C++ with Object-Oriented design—the way it was meant to be written. As an enthusiast, I became quite fluent in reading and understanding the Standard Template Library implementations of Clang and MSVC. Initially confusing, I later understood the true DRY code techniques and micro-optimizations for peak performance—and applied similar strategies. This course amplified my existing skills and upgraded them to the extreme!
-
-**Pre-Course DSA Mastery:** Before the formal course began, I had already spent an entire year self-studying and implementing every fundamental and advanced data structure (arrays, linked lists—single, double, XOR; BSTs, red-black trees, AVL) and algorithm (searching, sorting, graph traversal) in modern C++ using OOP principles, safe coding practices, and performance benchmarks—often outperforming reference implementations. All documented and preserved in GitHub.
-
-**7. Analysis of Algorithms (CS-312) — Precision in Complexity**
-Taught by the same dedicated professor who crafted DSA, this course delivered high-level algorithmic concepts with meticulous precision. Time and space complexity analysis, recurrence relations, asymptotic bounds—all explained in utmost detail. It was remarkable that such advanced concepts were taught with such clarity and depth. I greatly admire my Ma'am for her dedication to making us truly understand algorithmic efficiency at its core.
-
-**8. Probability & Statistics (MA-120) — Conquering the "Impossible"**
-There was a common belief that this was the most difficult subject in the curriculum. I saw it as a challenge—and found it surprisingly natural and intuitive! While some concepts like exponential distributions initially seemed unintuitive, I developed a mental framework to grasp them, solving problems with great precision and success. The foundations built during this course still serve me today—I often find myself solving probability problems in real-world scenarios, thanks to the solid intuition and interest developed back then.
-
-**9. Linear Algebra (MA-310) — 3Blue1Brown's Gift**
-Incredibly lucky timing! I had already been watching 3Blue1Brown's *Essence of Linear Algebra* series out of pure curiosity before the course began. That series gave me the fundamentals, the tools, and a profound intuition to understand matrices—their true meaning, why we perform certain operations, what the numbers tell us before and after transformations. I connected these concepts to computer graphics, understood how GPUs leverage matrix operations for parallel computation, and saw how linear algebra underpins everything from game engines to machine learning. That's how far my curiosity took me! 🎯
-
-**10. Object Oriented Analysis & Design (CMP-390) — Mapping Mastery to Terminology**
-This course was fascinating—not because I learned new concepts, but because I finally mapped my existing skills and best practices to the formal terminology of Software Engineering. Thanks to TheCherno's influence, I was already a practicing Software Engineer and Architect in mindset. About 95% of the content was already ingrained in my approach—UML diagrams, design patterns, SOLID principles, architecture decisions. This course gave me the vocabulary to articulate what I already knew intuitively. It was gratifying to realize how far self-directed learning had taken me.
-
-**11. Introduction to Sociology (SS-464) — Where Psychology Meets Society**
-Our professor did a remarkable job developing genuine interest in the subject, teaching us how society functions as a collective organism. Since I already had deep interest in psychology (nurtured through Mind Field and countless YouTube explorations), I approached sociology with a unique lens: *"Sociology, if seen magnified, is psychology."* I dove into learning about societal cycles, studied historical examples like the French Revolution, and followed numerous channels to understand the interplay between individual psychology and collective behavior. This interdisciplinary curiosity later informed my approach to building user-centric systems, the design languages, and understanding team dynamics.
-
+**Pre-Course DSA Mastery (1-year self-study):** Implemented and benchmarked core DS/algorithms in modern C++ (trees/graphs/sorting/searching); documented in GitHub (MyUniversity repo).
 ### The Professional Evolution (2023-Present)
 My transition to industry was strategic and calculated:
 - **TeqHolic Internship:** Gained industry experience in Flutter development
