@@ -735,22 +735,10 @@ Built and standardized ERP as a multi-tenant platform by engineering reusable co
 - **Knowledge as Power:** Continuous learning and sharing
 - **Impact Through Engineering:** Creating solutions that matter
 
-### Unique Differentiators
-1. **Started at Age 3:** Two decades of hands-on computer experience
-2. **Self-Taught Excellence:** Learned without formal training initially
-3. **Cross-Domain Expertise:** From low-level C++ to high-level architecture
-4. **Security Pioneer:** First to achieve mobile-to-mobile penetration testing
-5. **Community Leader:** Built international networks of experts
-6. **Research Contributor:** Published papers and influential articles
-7. **Open Source Innovator:** Creating tools that revolutionize workflows
-8. **AI Integration Expert:** Leveraging AI as engineering accelerator
-9. **Masterpiece Builder:** The Employee Monitoring Suite as a personal engineering achievement
-10. **ERP Systems Engineer:** Architect of foundational enterprise platforms integrating rules, thresholds, multi-channel notifications, and dynamic forms
-
 ## Guidelines for AI-Assisted Document Generation
 
 ### Purpose
-These instructions steer future AI/LLMs to craft highly personalized, human, and context-rich documents (CVs, resumes, SOPs, personal statements, cover letters, scholarship essays).
+These instructions are for your assist to craft highly personalized, human, and context-rich documents.
 
 ### Non-Negotiable Emphases
 - **Engineering Identity:** Systems architect, security-first engineer, and tool-builder with a craft mindset.
@@ -764,70 +752,19 @@ These instructions steer future AI/LLMs to craft highly personalized, human, and
 - **Delivery Record:** On-time delivery history; near-zero logic gaps; do-less-yield-maximum philosophy.
 - **Integrations & Realtime:** Mastercard/HBL/PNB integrations; SignalR real-time infrastructure; RPC familiarity (gRPC concepts).
 
-### Audience-Tailored Priorities
-- **Admissions (Masters/PhD):**
-  - Curiosity and research potential (UWB Simulation, quantum/photonics collaboration).
-  - Interdisciplinary synthesis (C++/systems + math/physics + UI/UX).
-  - Creative/philosophical mindset: questions assumptions, seeks elegant simplicity, builds intuition over memorization.
-  - Academic excellence (CGPA 3.73, publications, international recognition CyberMACS reserved seat/offer).
-  - Ethical choice framing (declined offer due to financial feasibility; sustainability mindset).
-- **Scholarships:**
-  - Impact and leadership (international cybersecurity community, mentoring, open source).
-  - Resilience and self-driven growth (teenage security journey, mobile-to-mobile testing breakthrough).
-  - Philosophical depth and holistic thinking (astronomy, physics, psychology informing engineering).
-  - Societal value and scalability (ERP standardization, monitoring suite productivity impact).
-- **Prestige Job Opportunities:**
-  - Architecture, security, and performance track record (ERP, Password Vault, EMS).
-  - Creative problem-solver who questions existing solutions and finds optimization opportunities.
-  - External partner delivery and reliability (Mastercard, banks) with clear SLAs and observability.
-  - Debugging legacy code; reverse engineering; refactoring for maintainability; real-time systems.
-  - Core strengths: modern C++, .NET 9, TypeScript, GraphQL, gRPC/SignalR, PostgreSQL.
-- **AI-Focused Roles & Research:**
-  - Vision for AI-driven societal transformation: eliminating coerced labor, enabling voluntary contribution model.
-  - Systemic thinking: understanding how AI can break exploitative economic cycles and harmful hierarchies.
-  - Open-source philosophy: believes open source will prevail when survival is decoupled from labor.
-  - Long-term orientation: building toward a future where humans pursue passions rather than survival work.
-  - Inspired by visionaries (Musk) but grounded in practical engineering contributions today.
-
 ### Structure & Voice Directives
 - **Voice:** First-person singular, confident yet humble; concrete, specific, and non-generic. Avoid buzzwords unless tied to a proof point.
 - **Narrative Pattern:** Problem → Options → Decision (trade-offs) → Action → Impact (numbers, outcomes).
 - **Lead with Impact:** Start with 1–2 signature wins tailored to the audience, then supporting depth.
-- **Quantify:** Always include metrics where available (200%, 35%, zero defects, timelines, scope).
+- **Quantify:** Always include metrics where available (2x, 35%, zero defects, timelines, scope).
 - **Evidence over Claims:** Reference systems and links where possible; name technologies and responsibilities.
 - **Brevity with Substance:** Short paragraphs, crisp bullets; no filler.
-
-### Content Blocks to Preferentially Surface
-- EMS zero-defects launch and 200% productivity.
-- ERP multi-tenant platform and reusable subsystems (primary development concluded Dec 2025).
-- **ERP Grand Modules:** Project Management → Budget Management (templates, distribution algorithms, multi-currency) → Procurement Management (PR, RFQ, PO, dual-level inspections, Issuance Notes)—all tightly integrated, Odoo-inspired but enhanced.
-- **ERP Command Palette:** Rights-compliant, fuzzy-search, score-based sorting—industry-standard UX innovation.
-- **Unified Dynamic Forms Architecture:** Non-redundant PR/RFQ/PO engineering with shared server logic, multiple data sources and view modes.
-- **Documents Management System:** Custom-built blob + AWS time-bound links with seamless fallback.
-- UWB Simulation's first-principles math-to-software pipeline.
-- Password Vault's multi-layer cryptography.
-- External integrations (Mastercard, HBL, PNB) and real-time SignalR infrastructure.
-- The Cherno's influence on performance/coding style; C++ mastery informing .NET (OOP era).
-- **Courses That Forged an Engineer:** Programming Fundamentals (Caleb Curry); OOP (TheCherno); Digital Logic Design (optimization instincts); Discrete Mathematics (proofs/reasoning); Theory of Automata (State Machines/Regex); DSA (OOP/STL/Micro-optimizations); Analysis of Algorithms (deep complexity analysis); Probability & Statistics (conquered "impossible" subject); Linear Algebra (3Blue1Brown intuition/GPU understanding); OOAD (mapping existing skills to SE terminology); Sociology (Psychology synthesis/Design Language).
-- DSA pre-cursor mastery: full-year self-study before coursework; modern C++ implementations outperforming references; comprehensive GitHub documentation.
-- Obsessive documentation habit: GitHub as knowledge repository (MyUniversity repo); everything learned is preserved and shared.
-
-### Style & Formatting
-- Use active verbs and measurable nouns. Prefer bullets for dense information.
-- Minimize adjectives; prioritize verifiable facts and artifacts.
-- If asked for a CV/Resume:
-  - One-page (job) or two-page (academic) by default; ATS-friendly; clear section headers.
-  - Highlight top 4–6 achievements with quantified impact.
-- If asked for SOP/Personal Statement:
-  - Open with a formative moment or flagship build; tie to target program.
-  - Show research fit and future goals; connect faculty/labs if known.
-- If asked for Scholarship Essay:
-  - Tie impact, leadership, need, and future societal benefit; include the CyberMACS decision context.
 
 ### Constraints
 - Be truthful; no exaggeration. Prefer clarity over hype.
 - Keep the tone respectful and professional; avoid negative framing about prior organizations.
 - Ensure inclusivity and accessibility in language.
+- Prefer straight sentences, rather than like these "Do Not <this>, but <that>" or any form of denial of a negative statement first, and then stating the opposite statement afterwards. Avoid using such robotic statements.
 
 ## Professional References
 
@@ -837,12 +774,6 @@ Available upon request. Notable references include:
 - Lead Developers from current and previous organizations
 - Open source project maintainers
 - International cybersecurity community members
-
----
-
-**Document Version:** 2.3 (2025-10-27)  
-**Purpose:** Comprehensive professional dataset for AI-assisted CV/resume generation  
-**Maintained By:** Muhammad Ammar Khan
 
 ---
 
